@@ -86,6 +86,11 @@ content:
           - { name: siteUrl, label: Site URL, type: string }
           - { name: ogImage, label: Default OG Image, type: image }
           - { name: twitterHandle, label: Twitter Handle, type: string }
+      - name: map
+        label: "🗺️ Map"
+        type: object
+        fields:
+          - { name: embedUrl, label: "Map Embed URL (used on every map section)", type: string, description: "Google Maps / My Maps embed src URL" }
       - name: analytics
         label: "📊 Analytics"
         type: object

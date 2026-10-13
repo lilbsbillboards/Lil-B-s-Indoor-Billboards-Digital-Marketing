@@ -44,6 +44,9 @@
     "ogImage": "/images/og-image.jpg",
     "twitterHandle": ""
   },
+  "map": {
+    "embedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1qgLD2xWAQD-KKYqWk8MqjDE9p-bQhqs&ll=32.8916,-97.1804&z=12&ehbc=0A0A0A"
+  },
   "analytics": {
     "googleAnalyticsId": ""
   }

@@ -56,7 +56,6 @@
       "overlayBadge": "Network Coverage",
       "overlayTitle": "Serving {city} and the Mid-Cities",
       "variant": "overlay-titled",
-      "mapUrl": "https://www.google.com/maps/d/u/0/embed?mid=1qgLD2xWAQD-KKYqWk8MqjDE9p-bQhqs&ehbc=2E312F",
       "locations": [
         { "name": "Bedford", "href": "/locations/bedford", "description": "Central Mid-Cities" },
         { "name": "Southlake", "href": "/locations/southlake", "description": "Northeast Tarrant County" },

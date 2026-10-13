@@ -53,6 +53,7 @@ const defaults = {
     ogImage: "/images/og-image.jpg",
     twitterHandle: "",
   },
+  map: { embedUrl: "" },
   analytics: { googleAnalyticsId: "" },
 };
 
@@ -139,6 +140,12 @@ export const siteConfig = {
     siteUrl: RESOLVED_SITE_URL,
     ogImage: siteData.seo?.ogImage || defaults.seo.ogImage,
     twitterHandle: siteData.seo?.twitterHandle || defaults.seo.twitterHandle,
+  },
+
+  // Site-wide map embed for every Locations/map section (e.g. a Google My Maps
+  // of host partner venues). Empty → sections fall back to a centered Google map.
+  map: {
+    embedUrl: (siteData as any).map?.embedUrl || defaults.map.embedUrl,
   },
 
   analytics: {

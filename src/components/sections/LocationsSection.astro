@@ -1,5 +1,5 @@
 ---
-import { getLocationText } from "@/config/site"
+import { getLocationText, siteConfig } from "@/config/site"
 import { MapPin, ArrowRight } from "lucide-react"
 import AnimateOnScroll from "@/components/AnimateOnScroll.astro"
 
@@ -47,7 +47,8 @@ const splitOverlay = (t: string) => {
 }
 const { head: overlayHead, tail: overlayTail } = splitOverlay(processedOverlayTitle)
 
-const mapUrl = customMapUrl || `https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d196281.12937236!2d${mapCenter.lng}!3d${mapCenter.lat}!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1704067200000!5m2!1sen!2sus`
+// Per-section mapUrl → site-wide map (Site Settings) → generic centered map
+const mapUrl = customMapUrl || siteConfig.map.embedUrl || `https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d196281.12937236!2d${mapCenter.lng}!3d${mapCenter.lat}!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1704067200000!5m2!1sen!2sus`
 
 const splitTitle = (t: string) => {
   if (t.includes("\n")) {
@@ -143,37 +144,35 @@ const { head, tail } = splitTitle(processedTitle)
           </div>
         </AnimateOnScroll>
         <AnimateOnScroll animation="fade-up" delay={150}>
-          <div class="relative rounded-3xl overflow-hidden min-h-[700px] hidden md:block">
-            <div class="absolute inset-0">
-              <iframe src={mapUrl} class="w-full h-full" style="border: 0" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Service Area Map" />
-            </div>
-            <div class="absolute inset-0 p-6 md:p-10 lg:p-12 flex items-center pointer-events-none">
-              <div class="locations-overlay-glass rounded-2xl p-8 md:p-10 w-full max-w-sm md:min-w-[24rem] pointer-events-auto">
-                <span class="conztru-badge conztru-badge--light mb-5">{processedOverlayBadge}</span>
-                <h3 class="text-3xl md:text-4xl mb-4 text-balance leading-tight" style="font-family:'Barlow',sans-serif; font-weight:800;">
-                  <span class="block text-white">{overlayHead}</span>
-                  {overlayTail && <span class="block conztru-italic-red">{overlayTail}</span>}
-                </h3>
-                <div class="space-y-2">
-                  <p class="text-xs font-bold uppercase tracking-[0.2em] mb-3" style="color:#FF5C63;">Featured Locations</p>
-                  {locations.map((location) => (
-                    <a href={location.href} class="group flex items-center justify-between p-3 rounded-xl bg-white/5 hover:bg-white/10 transition-all duration-300">
-                      <div class="flex items-center gap-3">
-                        <div class="w-9 h-9 rounded-full flex items-center justify-center" style="background-color:#C71B23;">
-                          <MapPin className="w-4 h-4 text-white" />
-                        </div>
-                        <div>
-                          <span class="font-bold text-white text-sm">{location.name}</span>
-                          {location.description && (
-                            <p class="text-xs text-white/55">{location.description}</p>
-                          )}
-                        </div>
+          <div class="locations-map-card relative rounded-3xl overflow-hidden hidden md:flex md:flex-col lg:flex-row lg:min-h-[700px]">
+            <div class="locations-map-panel relative shrink-0 w-full lg:w-[26rem] p-8 md:p-10 lg:p-12 flex flex-col justify-center">
+              <span class="conztru-badge conztru-badge--light mb-5">{processedOverlayBadge}</span>
+              <h3 class="text-3xl md:text-4xl mb-4 text-balance leading-tight" style="font-family:'Barlow',sans-serif; font-weight:800;">
+                <span class="block text-white">{overlayHead}</span>
+                {overlayTail && <span class="block conztru-italic-red">{overlayTail}</span>}
+              </h3>
+              <div class="space-y-2">
+                <p class="text-xs font-bold uppercase tracking-[0.2em] mb-3" style="color:#FF5C63;">Featured Locations</p>
+                {locations.map((location) => (
+                  <a href={location.href} class="group flex items-center justify-between p-3 rounded-xl bg-white/5 hover:bg-white/10 transition-all duration-300">
+                    <div class="flex items-center gap-3">
+                      <div class="w-9 h-9 rounded-full flex items-center justify-center" style="background-color:#C71B23;">
+                        <MapPin className="w-4 h-4 text-white" />
                       </div>
-                      <ArrowRight className="w-4 h-4 text-white/60 group-hover:text-[#C71B23] group-hover:translate-x-1 transition-all" />
-                    </a>
-                  ))}
-                </div>
+                      <div>
+                        <span class="font-bold text-white text-sm">{location.name}</span>
+                        {location.description && (
+                          <p class="text-xs text-white/55">{location.description}</p>
+                        )}
+                      </div>
+                    </div>
+                    <ArrowRight className="w-4 h-4 text-white/60 group-hover:text-[#C71B23] group-hover:translate-x-1 transition-all" />
+                  </a>
+                ))}
               </div>
+            </div>
+            <div class="relative flex-1 min-w-0 min-h-[480px]">
+              <iframe src={mapUrl} class="absolute inset-0 w-full h-full" style="border: 0" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Host Partner Map" />
             </div>
           </div>
           <!-- Mobile fallback -->
@@ -208,40 +207,38 @@ const { head, tail } = splitTitle(processedTitle)
 
     {variant === "overlay" && (
       <AnimateOnScroll animation="fade-up">
-        <div class="relative rounded-3xl overflow-hidden min-h-[700px] hidden md:block">
-          <div class="absolute inset-0">
-            <iframe src={mapUrl} class="w-full h-full" style="border: 0" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Service Area Map" />
-          </div>
-          <div class="absolute inset-0 p-6 md:p-10 lg:p-12 flex items-center pointer-events-none">
-            <div class="locations-overlay-glass rounded-2xl p-8 md:p-10 w-full max-w-sm md:min-w-[24rem] pointer-events-auto">
-              {processedBadge && <span class="conztru-badge conztru-badge--light mb-5">{processedBadge}</span>}
-              <h2 class="text-3xl md:text-4xl mb-4 text-balance leading-tight" style="font-family:'Barlow',sans-serif; font-weight:800;">
-                <span class="block text-white">{head}</span>
-                {tail && <span class="block conztru-italic-red">{tail}</span>}
-              </h2>
-              {processedDescription && (
-                <p class="text-white/70 mb-6 text-balance">{processedDescription}</p>
-              )}
-              <div class="space-y-2">
-                <p class="text-xs font-bold uppercase tracking-[0.2em] mb-3" style="color:#FF5C63;">Featured Locations</p>
-                {locations.map((location) => (
-                  <a href={location.href} class="group flex items-center justify-between p-3 rounded-xl bg-white/5 hover:bg-white/10 transition-all duration-300">
-                    <div class="flex items-center gap-3">
-                      <div class="w-9 h-9 rounded-full flex items-center justify-center" style="background-color:#C71B23;">
-                        <MapPin className="w-4 h-4 text-white" />
-                      </div>
-                      <div>
-                        <span class="font-bold text-white text-sm">{location.name}</span>
-                        {location.description && (
-                          <p class="text-xs text-white/55">{location.description}</p>
-                        )}
-                      </div>
+        <div class="locations-map-card relative rounded-3xl overflow-hidden hidden md:flex md:flex-col lg:flex-row lg:min-h-[700px]">
+          <div class="locations-map-panel relative shrink-0 w-full lg:w-[26rem] p-8 md:p-10 lg:p-12 flex flex-col justify-center">
+            {processedBadge && <span class="conztru-badge conztru-badge--light mb-5">{processedBadge}</span>}
+            <h2 class="text-3xl md:text-4xl mb-4 text-balance leading-tight" style="font-family:'Barlow',sans-serif; font-weight:800;">
+              <span class="block text-white">{head}</span>
+              {tail && <span class="block conztru-italic-red">{tail}</span>}
+            </h2>
+            {processedDescription && (
+              <p class="text-white/70 mb-6 text-balance">{processedDescription}</p>
+            )}
+            <div class="space-y-2">
+              <p class="text-xs font-bold uppercase tracking-[0.2em] mb-3" style="color:#FF5C63;">Featured Locations</p>
+              {locations.map((location) => (
+                <a href={location.href} class="group flex items-center justify-between p-3 rounded-xl bg-white/5 hover:bg-white/10 transition-all duration-300">
+                  <div class="flex items-center gap-3">
+                    <div class="w-9 h-9 rounded-full flex items-center justify-center" style="background-color:#C71B23;">
+                      <MapPin className="w-4 h-4 text-white" />
                     </div>
-                    <ArrowRight className="w-4 h-4 text-white/60 group-hover:text-[#C71B23] group-hover:translate-x-1 transition-all" />
-                  </a>
-                ))}
-              </div>
+                    <div>
+                      <span class="font-bold text-white text-sm">{location.name}</span>
+                      {location.description && (
+                        <p class="text-xs text-white/55">{location.description}</p>
+                      )}
+                    </div>
+                  </div>
+                  <ArrowRight className="w-4 h-4 text-white/60 group-hover:text-[#C71B23] group-hover:translate-x-1 transition-all" />
+                </a>
+              ))}
             </div>
+          </div>
+          <div class="relative flex-1 min-w-0 min-h-[480px]">
+            <iframe src={mapUrl} class="absolute inset-0 w-full h-full" style="border: 0" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Host Partner Map" />
           </div>
         </div>
         <!-- Mobile fallback -->
@@ -280,13 +277,23 @@ const { head, tail } = splitTitle(processedTitle)
 
 <style>
   /* Glass card overlaying the map — matches showcase / editorial glass */
-  .locations-overlay-glass {
-    background-color: rgba(10, 10, 10, 0.78);
-    backdrop-filter: blur(20px) saturate(160%);
-    -webkit-backdrop-filter: blur(20px) saturate(160%);
-    border: 1px solid rgba(255, 255, 255, 0.12);
-    box-shadow:
-      0 30px 80px -20px rgba(0, 0, 0, 0.55),
-      inset 0 1px 0 rgba(255, 255, 255, 0.10);
+  /* Map card: info panel and map sit side by side (stacked on tablet) so the
+     panel never covers the map's pins or its My Maps title bar. */
+  .locations-map-card {
+    background-color: #0A0A0A;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    box-shadow: 0 30px 80px -20px rgba(0, 0, 0, 0.45);
+  }
+  .locations-map-panel {
+    background:
+      radial-gradient(120% 60% at 0% 0%, rgba(199, 27, 35, 0.16), transparent 60%),
+      #0A0A0A;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+  }
+  @media (min-width: 1024px) {
+    .locations-map-panel {
+      border-bottom: 0;
+      border-right: 1px solid rgba(255, 255, 255, 0.10);
+    }
   }
 </style>
