@@ -1,33 +1,34 @@
 {
-  "title": "Aurora CO Digital Signage & Marketing | {business}",
-  "description": "We connect businesses in Aurora CO through digital signage, PPC, social media, SEO, and website design to keep brands visible and top of mind.",
-  "keywords": "marketing agency Aurora CO, digital marketing Aurora, Aurora marketing services, social media management Aurora, website design Aurora, SEO Aurora, PPC advertising Aurora, local marketing Aurora Colorado",
-  "location": "Aurora",
+  "title": "Southlake TX Indoor Billboards & Digital Marketing | Lil' B's",
+  "description": "Lil' B's helps Southlake, TX businesses get seen with indoor digital billboards, PPC, social media, SEO, and website design that keep brands top of mind.",
+  "keywords": "indoor billboards Southlake TX, digital marketing Southlake, Southlake advertising, Southlake marketing services, social media management Southlake, website design Southlake TX, PPC advertising Southlake, local marketing Southlake Texas",
+  "location": "Southlake",
+  "city": "Southlake",
   "sections": [
     {
       "type": "hero",
-      "badge": "Premium Marketing Solutions",
-      "title": "Local Advertising and Digital Marketing Pros in Aurora, CO",
-      "description": "Helping Aurora Businesses Get Noticed, On Screens and Online",
+      "badge": "Grow in Your Community",
+      "title": "Indoor Billboards & Digital Marketing in Southlake, TX",
+      "description": "Helping Southlake businesses get noticed, on screens around town and online",
       "buttonText": "Contact Our Advertising Experts",
       "buttonHref": "/contact-us",
-      "image": "/images/aurora.avif",
-      "imageAlt": "Aurora Colorado digital marketing"
+      "image": "/images/indoor-billboard-content.avif",
+      "imageAlt": "Indoor digital billboard in a Southlake area venue"
     },
     {
       "type": "content",
       "variant": "dark",
-      "title": "Your Local Marketing Partner in Aurora",
-      "description": "We're a full-service digital marketing agency dedicated to helping Aurora businesses succeed online. Whether you need a new website, social media management, or advertising campaigns, we provide personalized strategies that deliver real results. We understand the local market and know what it takes to stand out in Aurora and the greater Denver area.",
-      "image": "/images/aurora.avif",
-      "imageAlt": "Aurora local marketing partner",
+      "title": "Your Local Marketing Partner in Southlake",
+      "description": "Southlake customers are busy, and they spend their time at local restaurants, gyms, salons, and shops from Southlake Town Square to the FM 1709 corridor. Our indoor digital billboards put your message in front of them while they wait, eat, and work out, and our digital marketing keeps you visible when they search online.",
+      "image": "/images/indoor-billboard-content.avif",
+      "imageAlt": "Southlake local advertising partner",
       "imagePosition": "left"
     },
     {
       "type": "valueCards",
-      "badge": "Why Aurora",
-      "title": "Digital Marketing Experts Near You Serving Aurora",
-      "description": "Looking to grow your business in Aurora? Our local digital marketing agency specializes in helping businesses stand out through targeted strategies that drive results.",
+      "badge": "Why Southlake",
+      "title": "Digital Marketing Experts Near You Serving Southlake",
+      "description": "Looking to grow your business in Southlake? Our local digital marketing agency specializes in helping businesses stand out through targeted strategies that drive results.",
       "variant": "overlay",
       "cards": [
         { "icon": "pin", "title": "Increased Foot Traffic", "description": "Drive more visitors to your storefronts through indoor digital signage and targeted local promotions.", "image": "/images/local-marketing-experts.avif" },
@@ -41,28 +42,28 @@
     {
       "type": "cta",
       "variant": "card",
-      "title": "Ready to Grow Your Aurora Business?",
+      "title": "Ready to Grow Your Southlake Business?",
       "description": "Whether you're a startup or an established business, we have the marketing solutions to help you reach more customers and increase sales.",
       "buttonText": "Schedule a Free Consultation",
       "buttonHref": "/contact-us"
     },
     {
       "type": "features",
-      "title": "Marketing Services for Aurora Businesses",
+      "title": "Marketing Services for Southlake Businesses",
       "description": "Comprehensive digital marketing solutions tailored to your business needs.",
       "columns": 3,
       "features": [
         { "icon": "globe", "title": "Website Design & Development", "description": "Custom websites built to attract customers and drive conversions. Mobile-friendly, fast, and optimized for search engines.", "href": "/solutions/foundational/website-design" },
         { "icon": "share", "title": "Social Media Marketing", "description": "Engage your audience and build your brand on Facebook, Instagram, LinkedIn, and more with strategic content and management.", "href": "/solutions/foundational/social-media-management" },
         { "icon": "dollar", "title": "Pay-Per-Click Advertising", "description": "Get immediate results with targeted Google Ads and social media advertising campaigns that maximize your exposure.", "href": "/solutions/lead-gen/pay-per-click" },
-        { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in Aurora.", "href": "/solutions/foundational/google-business-profile" },
-        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "High-impact advertising in premium indoor locations across the Denver metro.", "href": "/indoor-billboards/screen-advertising" },
+        { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in Southlake.", "href": "/solutions/foundational/google-business-profile" },
+        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "Full-motion ads on indoor screens in popular restaurants, gyms, and shops across the Mid-Cities.", "href": "/indoor-billboards/screen-advertising" },
         { "icon": "megaphone", "title": "Display & Geofencing", "description": "Location-based display advertising that targets customers where they spend time.", "href": "/solutions/branding-awareness/display-geofencing" }
       ]
     },
     {
       "type": "valueCards",
-      "title": "How We Work With Aurora Businesses",
+      "title": "How We Work With Southlake Businesses",
       "description": "Our proven process ensures you get results without the hassle.",
       "variant": "cards",
       "cards": [
@@ -74,11 +75,11 @@
     },
     {
       "type": "features",
-      "title": "Why Aurora Businesses Choose Us",
+      "title": "Why Southlake Businesses Choose Us",
       "description": "We're more than just a marketing agency, we're your partner in growth.",
       "columns": 3,
       "features": [
-        { "icon": "pin", "title": "Local Expertise", "description": "We understand the Aurora market and know what it takes to reach local customers effectively." },
+        { "icon": "pin", "title": "Local Expertise", "description": "We understand the Southlake market and know what it takes to reach local customers effectively." },
         { "icon": "trending", "title": "Proven Results", "description": "Our strategies are backed by data and designed to deliver measurable growth for your business." },
         { "icon": "dollar", "title": "Transparent Pricing", "description": "No hidden fees or surprises. We provide clear pricing and work within your budget." },
         { "icon": "users", "title": "Personalized Service", "description": "You're not just a number. We provide dedicated support and treat your business like our own." },
@@ -89,9 +90,10 @@
     {
       "type": "faq",
       "title": "Common Questions About Our Services",
-      "description": "Get answers to the most common questions Aurora businesses ask us.",
+      "description": "Get answers to the most common questions Southlake businesses ask us.",
       "faqs": [
-        { "question": "Do you only work with businesses in Aurora?", "answer": "While we specialize in serving Aurora businesses, we work with clients throughout the Denver metro area and beyond." },
+        { "question": "Do you have screens near Southlake?", "answer": "Our indoor billboard network runs across the Mid-Cities, just minutes from Southlake. <a class='underline font-bold' href='/indoor-billboards/locations'>See our current host locations</a> or ask us about adding a screen at your Southlake business." },
+        { "question": "Do you only work with businesses in Southlake?", "answer": "While we specialize in serving Southlake businesses, we work with clients throughout the Mid-Cities and the greater Dallas–Fort Worth area." },
         { "question": "What types of businesses do you work with?", "answer": "We work with businesses of all sizes and industries, from local shops and restaurants to professional services and e-commerce stores." },
         { "question": "How much do your services cost?", "answer": "Every business has different needs and budgets. We offer flexible packages and custom solutions. <a class='underline font-bold' href='/contact-us'>Contact us</a> for a free consultation and personalized quote." },
         { "question": "Do I need to sign a long-term contract?", "answer": "We offer both project-based work and ongoing monthly services. Many clients start with a project and then continue with monthly marketing support." },
@@ -102,19 +104,19 @@
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our <strong>network</strong> spans across Denver's most popular neighborhoods and venues",
-      "overlayTitle": "Serving Aurora and Surrounding Areas",
+      "description": "Our <strong>network</strong> spans the Mid-Cities' most popular neighborhoods and venues",
+      "overlayTitle": "Serving Southlake and Surrounding Areas",
       "variant": "overlay-titled",
       "locations": [
-        { "name": "Arvada", "href": "/locations/arvada", "description": "Northwest Denver" },
-        { "name": "Lakewood", "href": "/locations/lakewood", "description": "West Denver Metro" },
-        { "name": "Centennial", "href": "/locations/centennial", "description": "South Denver Metro" }
+        { "name": "Bedford", "href": "/locations/bedford", "description": "Central Mid-Cities" },
+        { "name": "North Richland Hills", "href": "/locations/north-richland-hills", "description": "West Mid-Cities" },
+        { "name": "Colleyville", "href": "/locations/colleyville", "description": "North Mid-Cities" }
       ]
     },
     {
       "type": "cta",
       "variant": "banner",
-      "title": "Ready to grow your Aurora business?",
+      "title": "Ready to grow your Southlake business?",
       "description": "Contact us today to learn how we can help.",
       "buttonText": "Get In Touch",
       "buttonHref": "/contact-us"

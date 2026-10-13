@@ -1,22 +1,22 @@
 {
-  "title": "Contact Us | {business}",
-  "description": "Contact {business} to learn how our digital signage, SEO, PPC, social media, and website solutions help businesses stay visible and top of mind.",
-  "keywords": "contact {city} marketing agency, marketing agency {city} contact, get in touch marketing services, free marketing consultation {city}, {city} marketing agency phone",
+  "title": "Contact Lil' B's Indoor Billboards | {city}, {state}",
+  "description": "Contact Lil' B's Indoor Billboards & Digital Marketing in {city}, TX. Call {phoneFormatted} to advertise on our screens, host a billboard, or grow online.",
+  "keywords": "contact Lil' B's Indoor Billboards, {city} advertising company contact, indoor billboard advertising {city} {state}, host an indoor billboard, free marketing consultation {city}",
   "sections": [
     {
       "type": "hero",
-      "badge": "Let's Work Together",
-      "title": "Get Started Today",
-      "description": "Contact Us to Get Started!",
+      "badge": "Contact Us",
+      "title": "Let's Work Together",
+      "description": "Start today and someone on our team will be in touch.",
       "image": "/images/contact-us-hero.jpg",
-      "imageAlt": "Customer support contact center"
+      "imageAlt": "Lil' B's team ready to help local businesses"
     },
     {
       "type": "contact",
       "variant": "split",
-      "title": "Contact Us",
-      "description": "Ready to take your marketing to the next level? We'd love to hear from you. Whether you're looking for a complete marketing strategy, need help with a specific project, or just have questions about our services, our team is here to help. Fill out the form below and we'll get back to you within 24 hours.",
-      "submitText": "SUBMIT FORM"
+      "title": "Request More Info",
+      "description": "Start today by filling out this form and someone on our team will be in contact to let you know how Lil' B's Indoor Billboards & Digital Marketing can help you. Whether you want to advertise on our screens, host an indoor billboard in your business, or need help with your website, social media, or ads, we're here to help.",
+      "submitText": "START NOW"
     }
   ]
 }

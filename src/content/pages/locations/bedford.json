@@ -1,33 +1,34 @@
 {
-  "title": "Lakewood CO Digital Signage & Marketing | {business}",
-  "description": "We connect businesses in Lakewood CO through digital signage, PPC, social media, SEO, and website design to keep brands visible and top of mind.",
-  "keywords": "marketing agency Lakewood CO, digital marketing Lakewood, Lakewood marketing services, social media management Lakewood, website design Lakewood, SEO Lakewood, PPC advertising Lakewood, local marketing Lakewood Colorado",
-  "location": "Lakewood",
+  "title": "Bedford TX Indoor Billboards & Digital Marketing | Lil' B's",
+  "description": "Lil' B's helps Bedford, TX businesses get seen with indoor digital billboards, PPC, social media, SEO, and website design that keep brands top of mind.",
+  "keywords": "indoor billboards Bedford TX, digital marketing Bedford, Bedford advertising, Bedford marketing services, social media management Bedford, website design Bedford TX, PPC advertising Bedford, local marketing Bedford Texas",
+  "location": "Bedford",
+  "city": "Bedford",
   "sections": [
     {
       "type": "hero",
-      "badge": "Premium Marketing Solutions",
-      "title": "Local Advertising and Digital Marketing Pros in Lakewood, CO",
-      "description": "Helping Lakewood Businesses Get Noticed, On Screens and Online",
+      "badge": "Grow in Your Community",
+      "title": "Indoor Billboards & Digital Marketing in Bedford, TX",
+      "description": "Helping Bedford businesses get noticed, on screens around town and online",
       "buttonText": "Contact Our Advertising Experts",
       "buttonHref": "/contact-us",
-      "image": "/images/lakewood.avif",
-      "imageAlt": "Lakewood Colorado digital marketing"
+      "image": "/images/indoor-billboard.avif",
+      "imageAlt": "Indoor digital billboard in a Bedford area venue"
     },
     {
       "type": "content",
       "variant": "dark",
-      "title": "Your Local Marketing Partner in Lakewood",
-      "description": "We're a full-service digital marketing agency dedicated to helping Lakewood businesses succeed online. Whether you need a new website, social media management, or advertising campaigns, we provide personalized strategies that deliver real results. We understand the local market and know what it takes to stand out in Lakewood and the greater Denver area.",
-      "image": "/images/lakewood.avif",
-      "imageAlt": "Lakewood local marketing partner",
+      "title": "Your Local Marketing Partner in Bedford",
+      "description": "Bedford is our home base. We're a local business right here in Bedford, and since 2023 we've been helping neighbors along the Airport Freeway (SH 183) corridor get noticed, on indoor digital billboards in the places locals go every day and online with websites, social media, and search ads. We know the Mid-Cities market because we live and work in it.",
+      "image": "/images/indoor-billboard.avif",
+      "imageAlt": "Bedford local advertising partner",
       "imagePosition": "left"
     },
     {
       "type": "valueCards",
-      "badge": "Why Lakewood",
-      "title": "Digital Marketing Experts Near You Serving Lakewood",
-      "description": "Looking to grow your business in Lakewood? Our local digital marketing agency specializes in helping businesses stand out through targeted strategies that drive results.",
+      "badge": "Why Bedford",
+      "title": "Digital Marketing Experts Near You Serving Bedford",
+      "description": "Looking to grow your business in Bedford? Our local digital marketing agency specializes in helping businesses stand out through targeted strategies that drive results.",
       "variant": "overlay",
       "cards": [
         { "icon": "pin", "title": "Increased Foot Traffic", "description": "Drive more visitors to your storefronts through indoor digital signage and targeted local promotions.", "image": "/images/local-marketing-experts.avif" },
@@ -41,28 +42,28 @@
     {
       "type": "cta",
       "variant": "card",
-      "title": "Ready to Grow Your Lakewood Business?",
+      "title": "Ready to Grow Your Bedford Business?",
       "description": "Whether you're a startup or an established business, we have the marketing solutions to help you reach more customers and increase sales.",
       "buttonText": "Schedule a Free Consultation",
       "buttonHref": "/contact-us"
     },
     {
       "type": "features",
-      "title": "Marketing Services for Lakewood Businesses",
+      "title": "Marketing Services for Bedford Businesses",
       "description": "Comprehensive digital marketing solutions tailored to your business needs.",
       "columns": 3,
       "features": [
         { "icon": "globe", "title": "Website Design & Development", "description": "Custom websites built to attract customers and drive conversions. Mobile-friendly, fast, and optimized for search engines.", "href": "/solutions/foundational/website-design" },
         { "icon": "share", "title": "Social Media Marketing", "description": "Engage your audience and build your brand on Facebook, Instagram, LinkedIn, and more with strategic content and management.", "href": "/solutions/foundational/social-media-management" },
         { "icon": "dollar", "title": "Pay-Per-Click Advertising", "description": "Get immediate results with targeted Google Ads and social media advertising campaigns that maximize your exposure.", "href": "/solutions/lead-gen/pay-per-click" },
-        { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in Lakewood.", "href": "/solutions/foundational/google-business-profile" },
-        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "High-impact advertising in premium indoor locations across the Denver metro.", "href": "/indoor-billboards/screen-advertising" },
+        { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in Bedford.", "href": "/solutions/foundational/google-business-profile" },
+        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "Full-motion ads on indoor screens in popular restaurants, gyms, and shops across the Mid-Cities.", "href": "/indoor-billboards/screen-advertising" },
         { "icon": "megaphone", "title": "Display & Geofencing", "description": "Location-based display advertising that targets customers where they spend time.", "href": "/solutions/branding-awareness/display-geofencing" }
       ]
     },
     {
       "type": "valueCards",
-      "title": "How We Work With Lakewood Businesses",
+      "title": "How We Work With Bedford Businesses",
       "description": "Our proven process ensures you get results without the hassle.",
       "variant": "cards",
       "cards": [
@@ -74,11 +75,11 @@
     },
     {
       "type": "features",
-      "title": "Why Lakewood Businesses Choose Us",
+      "title": "Why Bedford Businesses Choose Us",
       "description": "We're more than just a marketing agency, we're your partner in growth.",
       "columns": 3,
       "features": [
-        { "icon": "pin", "title": "Local Expertise", "description": "We understand the Lakewood market and know what it takes to reach local customers effectively." },
+        { "icon": "pin", "title": "Local Expertise", "description": "We understand the Bedford market and know what it takes to reach local customers effectively." },
         { "icon": "trending", "title": "Proven Results", "description": "Our strategies are backed by data and designed to deliver measurable growth for your business." },
         { "icon": "dollar", "title": "Transparent Pricing", "description": "No hidden fees or surprises. We provide clear pricing and work within your budget." },
         { "icon": "users", "title": "Personalized Service", "description": "You're not just a number. We provide dedicated support and treat your business like our own." },
@@ -89,9 +90,10 @@
     {
       "type": "faq",
       "title": "Common Questions About Our Services",
-      "description": "Get answers to the most common questions Lakewood businesses ask us.",
+      "description": "Get answers to the most common questions Bedford businesses ask us.",
       "faqs": [
-        { "question": "Do you only work with businesses in Lakewood?", "answer": "While we specialize in serving Lakewood businesses, we work with clients throughout the Denver metro area and beyond." },
+        { "question": "Are you actually based in Bedford?", "answer": "Yes. Lil' B's is a local Bedford business. We started our indoor billboard network here in 2023 and serve businesses across Bedford and the surrounding Mid-Cities." },
+        { "question": "Do you only work with businesses in Bedford?", "answer": "While we specialize in serving Bedford businesses, we work with clients throughout the Mid-Cities and the greater Dallas–Fort Worth area." },
         { "question": "What types of businesses do you work with?", "answer": "We work with businesses of all sizes and industries, from local shops and restaurants to professional services and e-commerce stores." },
         { "question": "How much do your services cost?", "answer": "Every business has different needs and budgets. We offer flexible packages and custom solutions. <a class='underline font-bold' href='/contact-us'>Contact us</a> for a free consultation and personalized quote." },
         { "question": "Do I need to sign a long-term contract?", "answer": "We offer both project-based work and ongoing monthly services. Many clients start with a project and then continue with monthly marketing support." },
@@ -102,19 +104,19 @@
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our <strong>network</strong> spans across Denver's most popular neighborhoods and venues",
-      "overlayTitle": "Serving Lakewood and Surrounding Areas",
+      "description": "Our <strong>network</strong> spans the Mid-Cities' most popular neighborhoods and venues",
+      "overlayTitle": "Serving Bedford and Surrounding Areas",
       "variant": "overlay-titled",
       "locations": [
-        { "name": "Aurora", "href": "/locations/aurora", "description": "East Denver Metro" },
-        { "name": "Arvada", "href": "/locations/arvada", "description": "Northwest Denver" },
-        { "name": "Centennial", "href": "/locations/centennial", "description": "South Denver Metro" }
+        { "name": "Southlake", "href": "/locations/southlake", "description": "Northeast Tarrant County" },
+        { "name": "North Richland Hills", "href": "/locations/north-richland-hills", "description": "West Mid-Cities" },
+        { "name": "Colleyville", "href": "/locations/colleyville", "description": "North Mid-Cities" }
       ]
     },
     {
       "type": "cta",
       "variant": "banner",
-      "title": "Ready to grow your Lakewood business?",
+      "title": "Ready to grow your Bedford business?",
       "description": "Contact us today to learn how we can help.",
       "buttonText": "Get In Touch",
       "buttonHref": "/contact-us"

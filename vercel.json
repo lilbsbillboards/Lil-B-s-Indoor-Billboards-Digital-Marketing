@@ -46,5 +46,57 @@
         }
       ]
     }
+  ],
+  "redirects": [
+    {
+      "source": "/advertiser",
+      "destination": "/indoor-billboards/screen-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/advertiser/",
+      "destination": "/indoor-billboards/screen-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/advertise",
+      "destination": "/indoor-billboards/screen-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/advertise/",
+      "destination": "/indoor-billboards/screen-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/host",
+      "destination": "/indoor-billboards/become-a-venue-partner",
+      "permanent": true
+    },
+    {
+      "source": "/host/",
+      "destination": "/indoor-billboards/become-a-venue-partner",
+      "permanent": true
+    },
+    {
+      "source": "/locations",
+      "destination": "/indoor-billboards/locations",
+      "permanent": true
+    },
+    {
+      "source": "/locations/",
+      "destination": "/indoor-billboards/locations",
+      "permanent": true
+    },
+    {
+      "source": "/services",
+      "destination": "/solutions",
+      "permanent": true
+    },
+    {
+      "source": "/services/",
+      "destination": "/solutions",
+      "permanent": true
+    }
   ]
 }

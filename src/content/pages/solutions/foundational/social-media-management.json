@@ -114,13 +114,13 @@
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our <strong>network</strong> spans across Denver's most popular neighborhoods and venues",
+      "description": "Our <strong>network</strong> spans {city} and the Mid-Cities' most popular neighborhoods and venues",
       "variant": "overlay-titled",
       "locations": [
-        { "name": "Aurora", "href": "/locations/aurora", "description": "East Denver Metro" },
-        { "name": "Lakewood", "href": "/locations/lakewood", "description": "West Denver Metro" },
-        { "name": "Arvada", "href": "/locations/arvada", "description": "Northwest Denver" },
-        { "name": "Centennial", "href": "/locations/centennial", "description": "South Denver Metro" }
+        { "name": "Bedford", "href": "/locations/bedford", "description": "Central Mid-Cities" },
+        { "name": "Southlake", "href": "/locations/southlake", "description": "Northeast Tarrant County" },
+        { "name": "North Richland Hills", "href": "/locations/north-richland-hills", "description": "West Mid-Cities" },
+        { "name": "Colleyville", "href": "/locations/colleyville", "description": "North Mid-Cities" }
       ]
     },
     {

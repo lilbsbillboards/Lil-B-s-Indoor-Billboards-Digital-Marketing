@@ -1,7 +1,7 @@
 ---
 // Breadcrumbs — visible trail shown on subpages, directly below the hero.
 //
-// Matches the template's look: light strip, navy #0D1B2A ink, red #C41C12
+// Matches the template's look: light strip, black #0A0A0A ink, red #A12128
 // hover/active accent, Barlow, chevron `›` separators. The current (last)
 // crumb is bold and non-linked.
 //
@@ -134,7 +134,7 @@ const showBreadcrumbs = crumbs.length > 1;
   /* Strip variant — standalone light-gray band on light pages. */
   .conztru-breadcrumbs--strip {
     background-color: #f6f7f9;
-    border-bottom: 1px solid rgba(13, 27, 42, 0.07);
+    border-bottom: 1px solid rgba(10, 10, 10, 0.07);
   }
 
   .conztru-crumb-list {
@@ -173,7 +173,7 @@ const showBreadcrumbs = crumbs.length > 1;
     transition: color 0.2s ease;
   }
   .conztru-crumb-link:hover {
-    color: #C41C12;
+    color: #A12128;
   }
 
   .conztru-crumb-plain {
@@ -183,7 +183,7 @@ const showBreadcrumbs = crumbs.length > 1;
   }
 
   .conztru-crumb-current {
-    color: #0D1B2A;
+    color: #0A0A0A;
     font-weight: 800;
     padding: 2px 2px;
   }
@@ -191,7 +191,7 @@ const showBreadcrumbs = crumbs.length > 1;
   .conztru-crumb-sep {
     display: inline-flex;
     align-items: center;
-    color: #9aa4b0;
+    color: #A3A3A3;
     margin: 0 2px;
   }
   .conztru-crumb-sep svg {

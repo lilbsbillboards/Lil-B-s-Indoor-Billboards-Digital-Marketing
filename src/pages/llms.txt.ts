@@ -1,28 +1,29 @@
 import type { APIRoute } from "astro";
 import { siteConfig } from "@/config/site";
-import arvadaData from "@/content/pages/locations/arvada.json";
-import auroraData from "@/content/pages/locations/aurora.json";
-import centennialData from "@/content/pages/locations/centennial.json";
-import lakewoodData from "@/content/pages/locations/lakewood.json";
 
-const locations = [arvadaData, auroraData, centennialData, lakewoodData]
-  .map((d: any) => d.location)
-  .filter(Boolean) as string[];
+const locationModules = import.meta.glob("/src/content/pages/locations/*.json", { eager: true });
+const locations = Object.entries(locationModules)
+  .map(([file, d]: [string, any]) => ({
+    name: (d.location || d.city) as string,
+    slug: file.split("/").pop()!.replace(".json", ""),
+  }))
+  .filter((l) => l.name)
+  .sort((a, b) => a.name.localeCompare(b.name));
 
-const body = () => `# ${siteConfig.business.name} - Digital Marketing & Indoor Billboard Advertising
+const body = () => `# ${siteConfig.business.name} - Indoor Billboard Advertising & Digital Marketing
 
-> Digital marketing agency specializing in indoor billboard advertising and full-service marketing for ${siteConfig.location.stateFull} businesses.
+> Local indoor digital billboard network and digital marketing company serving ${siteConfig.location.city}, ${siteConfig.location.state} and the surrounding Mid-Cities of Dallas–Fort Worth.
 
 ## About Us
 
-${siteConfig.business.name} is a full-service digital marketing agency based in ${siteConfig.location.city}, ${siteConfig.location.stateFull}. We help local businesses grow through indoor billboard advertising and full-service digital marketing.
+${siteConfig.business.fullName} is a local business based in ${siteConfig.location.city}, ${siteConfig.location.stateFull}, operating since 2023. We connect local businesses with their customers through a network of indoor digital billboards in restaurants, gyms, shops, and other high-traffic venues, and we offer full-service digital marketing.
 
 ## Services
 
 ### Indoor Billboard Advertising
 - Screen Advertising: Hyper-local digital screens in high-traffic venues — [/indoor-billboards/screen-advertising](${siteConfig.seo.siteUrl}/indoor-billboards/screen-advertising)
 - Venue Network Locations: See where ads appear — [/indoor-billboards/locations](${siteConfig.seo.siteUrl}/indoor-billboards/locations)
-- Become a Venue Partner: Host a billboard in your business — [/indoor-billboards/become-a-venue-partner](${siteConfig.seo.siteUrl}/indoor-billboards/become-a-venue-partner)
+- Become a Host Partner: Host a billboard in your business — [/indoor-billboards/become-a-venue-partner](${siteConfig.seo.siteUrl}/indoor-billboards/become-a-venue-partner)
 
 ### Foundational Marketing Services
 - Website Design & Development: SEO-friendly, mobile-ready sites — [/solutions/foundational/website-design](${siteConfig.seo.siteUrl}/solutions/foundational/website-design)
@@ -41,8 +42,8 @@ ${siteConfig.business.name} is a full-service digital marketing agency based in 
 
 ## Service Areas
 
-We serve businesses throughout ${siteConfig.location.stateFull}, including:
-${locations.map((c) => `- [${c}, ${siteConfig.location.state}](${siteConfig.seo.siteUrl}/locations/${c.toLowerCase()})`).join("\n")}
+We serve businesses throughout the Mid-Cities of Dallas–Fort Worth, including:
+${locations.map((c) => `- [${c.name}, ${siteConfig.location.state}](${siteConfig.seo.siteUrl}/locations/${c.slug})`).join("\n")}
 
 ## Key Pages
 

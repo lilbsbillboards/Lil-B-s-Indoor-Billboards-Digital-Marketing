@@ -1,33 +1,34 @@
 {
-  "title": "Arvada CO Digital Signage & Marketing | {business}",
-  "description": "We connect businesses in Arvada CO through digital signage, PPC, social media, SEO, and website design to keep brands visible and top of mind.",
-  "keywords": "marketing agency Arvada CO, digital marketing Arvada, Arvada marketing services, social media management Arvada, website design Arvada, SEO Arvada, PPC advertising Arvada, local marketing Arvada Colorado",
-  "location": "Arvada",
+  "title": "North Richland Hills TX Indoor Billboards & Digital Marketing | Lil' B's",
+  "description": "Lil' B's helps North Richland Hills, TX businesses get seen with indoor digital billboards, PPC, social media, SEO, and website design that keep brands top of mind.",
+  "keywords": "indoor billboards North Richland Hills TX, digital marketing North Richland Hills, North Richland Hills advertising, North Richland Hills marketing services, social media management North Richland Hills, website design North Richland Hills TX, PPC advertising North Richland Hills, local marketing North Richland Hills Texas",
+  "location": "North Richland Hills",
+  "city": "North Richland Hills",
   "sections": [
     {
       "type": "hero",
-      "badge": "Premium Marketing Solutions",
-      "title": "Local Advertising and Digital Marketing Pros in Arvada, CO",
-      "description": "Helping Arvada Businesses Get Noticed, On Screens and Online",
+      "badge": "Grow in Your Community",
+      "title": "Indoor Billboards & Digital Marketing in North Richland Hills, TX",
+      "description": "Helping North Richland Hills businesses get noticed, on screens around town and online",
       "buttonText": "Contact Our Advertising Experts",
       "buttonHref": "/contact-us",
-      "image": "/images/arvada.avif",
-      "imageAlt": "Arvada Colorado digital marketing"
+      "image": "/images/locations.avif",
+      "imageAlt": "Indoor digital billboard in a North Richland Hills area venue"
     },
     {
       "type": "content",
       "variant": "dark",
-      "title": "Your Local Marketing Partner in Arvada",
-      "description": "We're a full-service digital marketing agency dedicated to helping Arvada businesses succeed online. Whether you need a new website, social media management, or advertising campaigns, we provide personalized strategies that deliver real results. We understand the local market and know what it takes to stand out in Arvada and the greater Denver area.",
-      "image": "/images/arvada.avif",
-      "imageAlt": "Arvada local marketing partner",
+      "title": "Your Local Marketing Partner in North Richland Hills",
+      "description": "North Richland Hills is full of local favorites, from neighborhood restaurants to fitness studios along Loop 820 and Rufe Snow Drive. Our indoor digital billboards reach NRH customers right where they spend their time, and our digital marketing services help them find you online too.",
+      "image": "/images/locations.avif",
+      "imageAlt": "North Richland Hills local advertising partner",
       "imagePosition": "left"
     },
     {
       "type": "valueCards",
-      "badge": "Why Arvada",
-      "title": "Digital Marketing Experts Near You Serving Arvada",
-      "description": "Looking to grow your business in Arvada? Our local digital marketing agency specializes in helping businesses stand out through targeted strategies that drive results.",
+      "badge": "Why North Richland Hills",
+      "title": "Digital Marketing Experts Near You Serving North Richland Hills",
+      "description": "Looking to grow your business in North Richland Hills? Our local digital marketing agency specializes in helping businesses stand out through targeted strategies that drive results.",
       "variant": "overlay",
       "cards": [
         { "icon": "pin", "title": "Increased Foot Traffic", "description": "Drive more visitors to your storefronts through indoor digital signage and targeted local promotions.", "image": "/images/local-marketing-experts.avif" },
@@ -41,28 +42,28 @@
     {
       "type": "cta",
       "variant": "card",
-      "title": "Ready to Grow Your Arvada Business?",
+      "title": "Ready to Grow Your North Richland Hills Business?",
       "description": "Whether you're a startup or an established business, we have the marketing solutions to help you reach more customers and increase sales.",
       "buttonText": "Schedule a Free Consultation",
       "buttonHref": "/contact-us"
     },
     {
       "type": "features",
-      "title": "Marketing Services for Arvada Businesses",
+      "title": "Marketing Services for North Richland Hills Businesses",
       "description": "Comprehensive digital marketing solutions tailored to your business needs.",
       "columns": 3,
       "features": [
         { "icon": "globe", "title": "Website Design & Development", "description": "Custom websites built to attract customers and drive conversions. Mobile-friendly, fast, and optimized for search engines.", "href": "/solutions/foundational/website-design" },
         { "icon": "share", "title": "Social Media Marketing", "description": "Engage your audience and build your brand on Facebook, Instagram, LinkedIn, and more with strategic content and management.", "href": "/solutions/foundational/social-media-management" },
         { "icon": "dollar", "title": "Pay-Per-Click Advertising", "description": "Get immediate results with targeted Google Ads and social media advertising campaigns that maximize your exposure.", "href": "/solutions/lead-gen/pay-per-click" },
-        { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in Arvada.", "href": "/solutions/foundational/google-business-profile" },
-        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "High-impact advertising in premium indoor locations across the Denver metro.", "href": "/indoor-billboards/screen-advertising" },
+        { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in North Richland Hills.", "href": "/solutions/foundational/google-business-profile" },
+        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "Full-motion ads on indoor screens in popular restaurants, gyms, and shops across the Mid-Cities.", "href": "/indoor-billboards/screen-advertising" },
         { "icon": "megaphone", "title": "Display & Geofencing", "description": "Location-based display advertising that targets customers where they spend time.", "href": "/solutions/branding-awareness/display-geofencing" }
       ]
     },
     {
       "type": "valueCards",
-      "title": "How We Work With Arvada Businesses",
+      "title": "How We Work With North Richland Hills Businesses",
       "description": "Our proven process ensures you get results without the hassle.",
       "variant": "cards",
       "cards": [
@@ -74,11 +75,11 @@
     },
     {
       "type": "features",
-      "title": "Why Arvada Businesses Choose Us",
+      "title": "Why North Richland Hills Businesses Choose Us",
       "description": "We're more than just a marketing agency, we're your partner in growth.",
       "columns": 3,
       "features": [
-        { "icon": "pin", "title": "Local Expertise", "description": "We understand the Arvada market and know what it takes to reach local customers effectively." },
+        { "icon": "pin", "title": "Local Expertise", "description": "We understand the North Richland Hills market and know what it takes to reach local customers effectively." },
         { "icon": "trending", "title": "Proven Results", "description": "Our strategies are backed by data and designed to deliver measurable growth for your business." },
         { "icon": "dollar", "title": "Transparent Pricing", "description": "No hidden fees or surprises. We provide clear pricing and work within your budget." },
         { "icon": "users", "title": "Personalized Service", "description": "You're not just a number. We provide dedicated support and treat your business like our own." },
@@ -89,9 +90,10 @@
     {
       "type": "faq",
       "title": "Common Questions About Our Services",
-      "description": "Get answers to the most common questions Arvada businesses ask us.",
+      "description": "Get answers to the most common questions North Richland Hills businesses ask us.",
       "faqs": [
-        { "question": "Do you only work with businesses in Arvada?", "answer": "While we specialize in serving Arvada businesses, we work with clients throughout the Denver metro area and beyond." },
+        { "question": "Do you serve businesses in North Richland Hills?", "answer": "Absolutely. NRH is right next door to our Bedford home base. We help North Richland Hills businesses with indoor billboard advertising, websites, social media, Google Business Profile, and PPC." },
+        { "question": "Do you only work with businesses in North Richland Hills?", "answer": "While we specialize in serving North Richland Hills businesses, we work with clients throughout the Mid-Cities and the greater Dallas–Fort Worth area." },
         { "question": "What types of businesses do you work with?", "answer": "We work with businesses of all sizes and industries, from local shops and restaurants to professional services and e-commerce stores." },
         { "question": "How much do your services cost?", "answer": "Every business has different needs and budgets. We offer flexible packages and custom solutions. <a class='underline font-bold' href='/contact-us'>Contact us</a> for a free consultation and personalized quote." },
         { "question": "Do I need to sign a long-term contract?", "answer": "We offer both project-based work and ongoing monthly services. Many clients start with a project and then continue with monthly marketing support." },
@@ -102,19 +104,19 @@
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our <strong>network</strong> spans across Denver's most popular neighborhoods and venues",
-      "overlayTitle": "Serving Arvada and Surrounding Areas",
+      "description": "Our <strong>network</strong> spans the Mid-Cities' most popular neighborhoods and venues",
+      "overlayTitle": "Serving North Richland Hills and Surrounding Areas",
       "variant": "overlay-titled",
       "locations": [
-        { "name": "Aurora", "href": "/locations/aurora", "description": "East Denver Metro" },
-        { "name": "Lakewood", "href": "/locations/lakewood", "description": "West Denver Metro" },
-        { "name": "Centennial", "href": "/locations/centennial", "description": "South Denver Metro" }
+        { "name": "Bedford", "href": "/locations/bedford", "description": "Central Mid-Cities" },
+        { "name": "Southlake", "href": "/locations/southlake", "description": "Northeast Tarrant County" },
+        { "name": "Colleyville", "href": "/locations/colleyville", "description": "North Mid-Cities" }
       ]
     },
     {
       "type": "cta",
       "variant": "banner",
-      "title": "Ready to grow your Arvada business?",
+      "title": "Ready to grow your North Richland Hills business?",
       "description": "Contact us today to learn how we can help.",
       "buttonText": "Get In Touch",
       "buttonHref": "/contact-us"

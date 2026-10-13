@@ -1,33 +1,34 @@
 {
-  "title": "Centennial CO Digital Signage & Marketing | {business}",
-  "description": "We connect businesses in Centennial CO through digital signage, PPC, social media, SEO, and website design to keep brands visible and top of mind.",
-  "keywords": "marketing agency Centennial CO, digital marketing Centennial, Centennial marketing services, social media management Centennial, website design Centennial, SEO Centennial, PPC advertising Centennial, local marketing Centennial Colorado",
-  "location": "Centennial",
+  "title": "Colleyville TX Indoor Billboards & Digital Marketing | Lil' B's",
+  "description": "Lil' B's helps Colleyville, TX businesses get seen with indoor digital billboards, PPC, social media, SEO, and website design that keep brands top of mind.",
+  "keywords": "indoor billboards Colleyville TX, digital marketing Colleyville, Colleyville advertising, Colleyville marketing services, social media management Colleyville, website design Colleyville TX, PPC advertising Colleyville, local marketing Colleyville Texas",
+  "location": "Colleyville",
+  "city": "Colleyville",
   "sections": [
     {
       "type": "hero",
-      "badge": "Premium Marketing Solutions",
-      "title": "Local Advertising and Digital Marketing Pros in Centennial, CO",
-      "description": "Helping Centennial Businesses Get Noticed, On Screens and Online",
+      "badge": "Grow in Your Community",
+      "title": "Indoor Billboards & Digital Marketing in Colleyville, TX",
+      "description": "Helping Colleyville businesses get noticed, on screens around town and online",
       "buttonText": "Contact Our Advertising Experts",
       "buttonHref": "/contact-us",
-      "image": "/images/centennial.avif",
-      "imageAlt": "Centennial Colorado digital marketing"
+      "image": "/images/venue-partner-content.avif",
+      "imageAlt": "Indoor digital billboard in a Colleyville area venue"
     },
     {
       "type": "content",
       "variant": "dark",
-      "title": "Your Local Marketing Partner in Centennial",
-      "description": "We're a full-service digital marketing agency dedicated to helping Centennial businesses succeed online. Whether you need a new website, social media management, or advertising campaigns, we provide personalized strategies that deliver real results. We understand the local market and know what it takes to stand out in Centennial and the greater Denver area.",
-      "image": "/images/centennial.avif",
-      "imageAlt": "Centennial local marketing partner",
+      "title": "Your Local Marketing Partner in Colleyville",
+      "description": "Colleyville businesses thrive on loyal, local customers, and that's exactly who our indoor digital billboards reach. From restaurants and boutiques along Colleyville Boulevard to service businesses across town, we help Colleyville brands stay top of mind on screens and online.",
+      "image": "/images/venue-partner-content.avif",
+      "imageAlt": "Colleyville local advertising partner",
       "imagePosition": "left"
     },
     {
       "type": "valueCards",
-      "badge": "Why Centennial",
-      "title": "Digital Marketing Experts Near You Serving Centennial",
-      "description": "Looking to grow your business in Centennial? Our local digital marketing agency specializes in helping businesses stand out through targeted strategies that drive results.",
+      "badge": "Why Colleyville",
+      "title": "Digital Marketing Experts Near You Serving Colleyville",
+      "description": "Looking to grow your business in Colleyville? Our local digital marketing agency specializes in helping businesses stand out through targeted strategies that drive results.",
       "variant": "overlay",
       "cards": [
         { "icon": "pin", "title": "Increased Foot Traffic", "description": "Drive more visitors to your storefronts through indoor digital signage and targeted local promotions.", "image": "/images/local-marketing-experts.avif" },
@@ -41,28 +42,28 @@
     {
       "type": "cta",
       "variant": "card",
-      "title": "Ready to Grow Your Centennial Business?",
+      "title": "Ready to Grow Your Colleyville Business?",
       "description": "Whether you're a startup or an established business, we have the marketing solutions to help you reach more customers and increase sales.",
       "buttonText": "Schedule a Free Consultation",
       "buttonHref": "/contact-us"
     },
     {
       "type": "features",
-      "title": "Marketing Services for Centennial Businesses",
+      "title": "Marketing Services for Colleyville Businesses",
       "description": "Comprehensive digital marketing solutions tailored to your business needs.",
       "columns": 3,
       "features": [
         { "icon": "globe", "title": "Website Design & Development", "description": "Custom websites built to attract customers and drive conversions. Mobile-friendly, fast, and optimized for search engines.", "href": "/solutions/foundational/website-design" },
         { "icon": "share", "title": "Social Media Marketing", "description": "Engage your audience and build your brand on Facebook, Instagram, LinkedIn, and more with strategic content and management.", "href": "/solutions/foundational/social-media-management" },
         { "icon": "dollar", "title": "Pay-Per-Click Advertising", "description": "Get immediate results with targeted Google Ads and social media advertising campaigns that maximize your exposure.", "href": "/solutions/lead-gen/pay-per-click" },
-        { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in Centennial.", "href": "/solutions/foundational/google-business-profile" },
-        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "High-impact advertising in premium indoor locations across the Denver metro.", "href": "/indoor-billboards/screen-advertising" },
+        { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in Colleyville.", "href": "/solutions/foundational/google-business-profile" },
+        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "Full-motion ads on indoor screens in popular restaurants, gyms, and shops across the Mid-Cities.", "href": "/indoor-billboards/screen-advertising" },
         { "icon": "megaphone", "title": "Display & Geofencing", "description": "Location-based display advertising that targets customers where they spend time.", "href": "/solutions/branding-awareness/display-geofencing" }
       ]
     },
     {
       "type": "valueCards",
-      "title": "How We Work With Centennial Businesses",
+      "title": "How We Work With Colleyville Businesses",
       "description": "Our proven process ensures you get results without the hassle.",
       "variant": "cards",
       "cards": [
@@ -74,11 +75,11 @@
     },
     {
       "type": "features",
-      "title": "Why Centennial Businesses Choose Us",
+      "title": "Why Colleyville Businesses Choose Us",
       "description": "We're more than just a marketing agency, we're your partner in growth.",
       "columns": 3,
       "features": [
-        { "icon": "pin", "title": "Local Expertise", "description": "We understand the Centennial market and know what it takes to reach local customers effectively." },
+        { "icon": "pin", "title": "Local Expertise", "description": "We understand the Colleyville market and know what it takes to reach local customers effectively." },
         { "icon": "trending", "title": "Proven Results", "description": "Our strategies are backed by data and designed to deliver measurable growth for your business." },
         { "icon": "dollar", "title": "Transparent Pricing", "description": "No hidden fees or surprises. We provide clear pricing and work within your budget." },
         { "icon": "users", "title": "Personalized Service", "description": "You're not just a number. We provide dedicated support and treat your business like our own." },
@@ -89,9 +90,10 @@
     {
       "type": "faq",
       "title": "Common Questions About Our Services",
-      "description": "Get answers to the most common questions Centennial businesses ask us.",
+      "description": "Get answers to the most common questions Colleyville businesses ask us.",
       "faqs": [
-        { "question": "Do you only work with businesses in Centennial?", "answer": "While we specialize in serving Centennial businesses, we work with clients throughout the Denver metro area and beyond." },
+        { "question": "Can a Colleyville business host one of your screens?", "answer": "Yes! Host partners get an indoor digital screen installed, a full-screen ad that plays in their own location, and their ads shown at other nearby non-competing hosts. <a class='underline font-bold' href='/indoor-billboards/become-a-venue-partner'>Learn about becoming a host partner</a>." },
+        { "question": "Do you only work with businesses in Colleyville?", "answer": "While we specialize in serving Colleyville businesses, we work with clients throughout the Mid-Cities and the greater Dallas–Fort Worth area." },
         { "question": "What types of businesses do you work with?", "answer": "We work with businesses of all sizes and industries, from local shops and restaurants to professional services and e-commerce stores." },
         { "question": "How much do your services cost?", "answer": "Every business has different needs and budgets. We offer flexible packages and custom solutions. <a class='underline font-bold' href='/contact-us'>Contact us</a> for a free consultation and personalized quote." },
         { "question": "Do I need to sign a long-term contract?", "answer": "We offer both project-based work and ongoing monthly services. Many clients start with a project and then continue with monthly marketing support." },
@@ -102,19 +104,19 @@
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our <strong>network</strong> spans across Denver's most popular neighborhoods and venues",
-      "overlayTitle": "Serving Centennial and Surrounding Areas",
+      "description": "Our <strong>network</strong> spans the Mid-Cities' most popular neighborhoods and venues",
+      "overlayTitle": "Serving Colleyville and Surrounding Areas",
       "variant": "overlay-titled",
       "locations": [
-        { "name": "Aurora", "href": "/locations/aurora", "description": "East Denver Metro" },
-        { "name": "Arvada", "href": "/locations/arvada", "description": "Northwest Denver" },
-        { "name": "Lakewood", "href": "/locations/lakewood", "description": "West Denver Metro" }
+        { "name": "Bedford", "href": "/locations/bedford", "description": "Central Mid-Cities" },
+        { "name": "Southlake", "href": "/locations/southlake", "description": "Northeast Tarrant County" },
+        { "name": "North Richland Hills", "href": "/locations/north-richland-hills", "description": "West Mid-Cities" }
       ]
     },
     {
       "type": "cta",
       "variant": "banner",
-      "title": "Ready to grow your Centennial business?",
+      "title": "Ready to grow your Colleyville business?",
       "description": "Contact us today to learn how we can help.",
       "buttonText": "Get In Touch",
       "buttonHref": "/contact-us"

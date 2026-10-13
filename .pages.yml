@@ -41,7 +41,8 @@ content:
         type: object
         fields:
           - { name: city, label: City, type: string, required: true }
-          - { name: state, label: State, type: string }
+          - { name: state, label: "State (abbreviation, e.g. TX)", type: string }
+          - { name: stateFull, label: "State (full name, e.g. Texas)", type: string }
           - { name: address, label: Address, type: string }
           - { name: fullAddress, label: Full Address, type: string }
       - name: contact

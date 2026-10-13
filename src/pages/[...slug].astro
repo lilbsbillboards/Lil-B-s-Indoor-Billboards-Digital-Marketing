@@ -18,7 +18,7 @@ export const prerender = true;
 // Service slug → schema serviceType
 const SERVICE_TYPE: Record<string, string> = {
   "indoor-billboards/screen-advertising": "Indoor Digital Billboard Advertising",
-  "indoor-billboards/become-a-venue-partner": "Venue Partner Network",
+  "indoor-billboards/become-a-venue-partner": "Indoor Billboard Host Partner Network",
   "solutions/foundational/website-design": "Web Design and Development",
   "solutions/foundational/google-business-profile": "Local SEO",
   "solutions/foundational/social-media-management": "Social Media Marketing",
@@ -115,7 +115,7 @@ const filterSelf = (locs: any[]) =>
     if (type === "hero") {
       // HeroPage renders its own overlay breadcrumbs; homepage has none.
       // Location pages get a short breadcrumb label (the city) instead of the
-      // long hero headline ("Local Advertising … Pros in Aurora, CO").
+      // long hero headline ("Indoor Billboards … in Bedford, TX").
       return isHomepage
         ? <HeroHomeStatic {...props} />
         : <HeroPage {...props} breadcrumbLabel={isLocationPage && locName ? locName : undefined} />;
