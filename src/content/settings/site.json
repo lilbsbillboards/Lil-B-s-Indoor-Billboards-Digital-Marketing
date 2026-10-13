@@ -1,9 +1,9 @@
 {
   "business": {
-    "name": "Lil' B's Indoor Billboards",
+    "name": "Lil' B's Indoor Billboards & Digital Marketing",
     "fullName": "Lil' B's Indoor Billboards & Digital Marketing",
-    "tagline": "We bring local businesses to the forefront of our community, on screens around town and online.",
-    "description": "Lil' B's Indoor Billboards & Digital Marketing is a local advertising company in Bedford, Texas. Since 2023, we've connected Mid-Cities businesses with their customers through our indoor digital billboard network, plus website design, social media, and PPC."
+    "tagline": "Your trusted partner for comprehensive digital marketing solutions, from custom website design and SEO to indoor billboard advertising and targeted campaigns that deliver real results.",
+    "description": "We are a local marketing company in Bedford, Texas. Premium marketing solutions including website design, social media management, and indoor billboard advertising."
   },
   "location": {
     "city": "Bedford",
@@ -37,9 +37,9 @@
   },
   "seo": {
     "siteName": "Lil' B's Indoor Billboards & Digital Marketing",
-    "defaultTitle": "Bedford TX Indoor Billboards & Digital Marketing | Lil' B's",
-    "defaultDescription": "Lil' B's connects Bedford and Mid-Cities businesses with local customers through indoor digital billboards, PPC, social media, SEO, and website design.",
-    "keywords": "Bedford TX advertising, indoor billboards Bedford, indoor digital billboards Mid-Cities, digital marketing Bedford TX, local advertising Southlake, North Richland Hills marketing, Colleyville advertising, screen advertising DFW, website design Bedford TX, PPC advertising Bedford",
+    "defaultTitle": "Bedford Digital Signage & Marketing | Lil' B's Indoor Billboards & Digital Marketing",
+    "defaultDescription": "We connect businesses in Bedford through digital signage, PPC, social media, SEO, and website design to keep brands visible and top of mind.",
+    "keywords": "Bedford marketing agency, digital marketing Bedford, marketing services Bedford TX, indoor billboard advertising, social media management, website design Bedford, PPC advertising, Google Business Profile, local marketing Bedford",
     "siteUrl": "https://lilbsbillboards.com",
     "ogImage": "/images/og-image.jpg",
     "twitterHandle": ""

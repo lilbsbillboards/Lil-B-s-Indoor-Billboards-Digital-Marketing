@@ -1,0 +1,73 @@
+---
+// Photo attribution for third-party images (e.g. Creative Commons photos from
+// Wikimedia Commons). Follows Commons' recommended credit line:
+//   "Photo: Author, License, via Wikimedia Commons (modified)"
+// Rendered as a small caption pinned to the bottom-right of the image, so the
+// parent element must be positioned (relative/absolute).
+
+export interface ImageCreditData {
+  author: string
+  authorUrl?: string
+  license: string
+  licenseUrl?: string
+  sourceUrl?: string
+  sourceName?: string
+  /** What was changed from the original, e.g. "resized". */
+  modified?: string
+}
+
+interface Props {
+  credit?: ImageCreditData
+  class?: string
+}
+
+const { credit, class: className = "" } = Astro.props
+---
+
+{credit && (
+  <p class:list={["image-credit", className]}>
+    Photo:{" "}
+    {credit.authorUrl ? (
+      <a href={credit.authorUrl} target="_blank" rel="noopener noreferrer">{credit.author}</a>
+    ) : (
+      credit.author
+    )},{" "}
+    {credit.licenseUrl ? (
+      <a href={credit.licenseUrl} target="_blank" rel="license noopener noreferrer">{credit.license}</a>
+    ) : (
+      credit.license
+    )}
+    {credit.sourceUrl && (
+      <>{", via "}<a href={credit.sourceUrl} target="_blank" rel="noopener noreferrer">{credit.sourceName || "source"}</a></>
+    )}
+    {credit.modified && <> ({credit.modified})</>}
+  </p>
+)}
+
+<style>
+  .image-credit {
+    position: absolute;
+    right: 1rem;
+    bottom: 1rem;
+    z-index: 20;
+    max-width: calc(100% - 2rem);
+    margin: 0;
+    padding: 0.25rem 0.65rem;
+    border-radius: 999px;
+    background-color: rgba(10, 10, 10, 0.62);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 11px;
+    line-height: 1.4;
+    text-align: right;
+  }
+  .image-credit a {
+    color: #ffffff;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .image-credit a:hover {
+    color: #FF5C63;
+  }
+</style>

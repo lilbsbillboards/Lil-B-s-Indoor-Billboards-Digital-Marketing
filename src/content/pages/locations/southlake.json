@@ -1,27 +1,44 @@
 {
-  "title": "Southlake TX Indoor Billboards & Digital Marketing | Lil' B's",
-  "description": "Lil' B's helps Southlake, TX businesses get seen with indoor digital billboards, PPC, social media, SEO, and website design that keep brands top of mind.",
-  "keywords": "indoor billboards Southlake TX, digital marketing Southlake, Southlake advertising, Southlake marketing services, social media management Southlake, website design Southlake TX, PPC advertising Southlake, local marketing Southlake Texas",
+  "title": "Southlake TX Digital Signage & Marketing | {business}",
+  "description": "We connect businesses in Southlake TX through digital signage, PPC, social media, SEO, and website design to keep brands visible and top of mind.",
+  "keywords": "marketing agency Southlake TX, digital marketing Southlake, Southlake marketing services, social media management Southlake, website design Southlake, SEO Southlake, PPC advertising Southlake, local marketing Southlake Texas",
   "location": "Southlake",
-  "city": "Southlake",
   "sections": [
     {
       "type": "hero",
-      "badge": "Grow in Your Community",
-      "title": "Indoor Billboards & Digital Marketing in Southlake, TX",
-      "description": "Helping Southlake businesses get noticed, on screens around town and online",
+      "badge": "Premium Marketing Solutions",
+      "title": "Local Advertising and Digital Marketing Pros in Southlake, TX",
+      "description": "Helping Southlake Businesses Get Noticed, On Screens and Online",
       "buttonText": "Contact Our Advertising Experts",
       "buttonHref": "/contact-us",
-      "image": "/images/indoor-billboard-content.avif",
-      "imageAlt": "Indoor digital billboard in a Southlake area venue"
+      "image": "/images/locations/southlake-hero.avif",
+      "imageAlt": "Shops and banners at Southlake Town Square in Southlake, Texas",
+      "imageCredit": {
+        "author": "Southlake Texas",
+        "authorUrl": "https://www.flickr.com/people/67936826@N04",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southlake_Town_Square_(6181958881).jpg",
+        "sourceName": "Wikimedia Commons",
+        "modified": "resized"
+      }
     },
     {
       "type": "content",
       "variant": "dark",
       "title": "Your Local Marketing Partner in Southlake",
-      "description": "Southlake customers are busy, and they spend their time at local restaurants, gyms, salons, and shops from Southlake Town Square to the FM 1709 corridor. Our indoor digital billboards put your message in front of them while they wait, eat, and work out, and our digital marketing keeps you visible when they search online.",
-      "image": "/images/indoor-billboard-content.avif",
-      "imageAlt": "Southlake local advertising partner",
+      "description": "We're a full-service digital marketing agency dedicated to helping Southlake businesses succeed online. Whether you need a new website, social media management, or advertising campaigns, we provide personalized strategies that deliver real results. We understand the local market and know what it takes to stand out in Southlake and the greater Dallas–Fort Worth area.",
+      "image": "/images/locations/southlake-content.avif",
+      "imageAlt": "Christmas tree lit up at Southlake Town Square",
+      "imageCredit": {
+        "author": "NETarrantMan",
+        "authorUrl": "https://commons.wikimedia.org/wiki/User:NETarrantMan",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christmas_Tree-Southlake_Town_Square.jpg",
+        "sourceName": "Wikimedia Commons",
+        "modified": "resized"
+      },
       "imagePosition": "left"
     },
     {
@@ -57,7 +74,7 @@
         { "icon": "share", "title": "Social Media Marketing", "description": "Engage your audience and build your brand on Facebook, Instagram, LinkedIn, and more with strategic content and management.", "href": "/solutions/foundational/social-media-management" },
         { "icon": "dollar", "title": "Pay-Per-Click Advertising", "description": "Get immediate results with targeted Google Ads and social media advertising campaigns that maximize your exposure.", "href": "/solutions/lead-gen/pay-per-click" },
         { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in Southlake.", "href": "/solutions/foundational/google-business-profile" },
-        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "Full-motion ads on indoor screens in popular restaurants, gyms, and shops across the Mid-Cities.", "href": "/indoor-billboards/screen-advertising" },
+        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "High-impact advertising in premium indoor locations across the Dallas–Fort Worth metro.", "href": "/indoor-billboards/screen-advertising" },
         { "icon": "megaphone", "title": "Display & Geofencing", "description": "Location-based display advertising that targets customers where they spend time.", "href": "/solutions/branding-awareness/display-geofencing" }
       ]
     },
@@ -92,8 +109,7 @@
       "title": "Common Questions About Our Services",
       "description": "Get answers to the most common questions Southlake businesses ask us.",
       "faqs": [
-        { "question": "Do you have screens near Southlake?", "answer": "Our indoor billboard network runs across the Mid-Cities, just minutes from Southlake. <a class='underline font-bold' href='/indoor-billboards/locations'>See our current host locations</a> or ask us about adding a screen at your Southlake business." },
-        { "question": "Do you only work with businesses in Southlake?", "answer": "While we specialize in serving Southlake businesses, we work with clients throughout the Mid-Cities and the greater Dallas–Fort Worth area." },
+        { "question": "Do you only work with businesses in Southlake?", "answer": "While we specialize in serving Southlake businesses, we work with clients throughout the Dallas–Fort Worth metro area and beyond." },
         { "question": "What types of businesses do you work with?", "answer": "We work with businesses of all sizes and industries, from local shops and restaurants to professional services and e-commerce stores." },
         { "question": "How much do your services cost?", "answer": "Every business has different needs and budgets. We offer flexible packages and custom solutions. <a class='underline font-bold' href='/contact-us'>Contact us</a> for a free consultation and personalized quote." },
         { "question": "Do I need to sign a long-term contract?", "answer": "We offer both project-based work and ongoing monthly services. Many clients start with a project and then continue with monthly marketing support." },
@@ -104,7 +120,7 @@
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our <strong>network</strong> spans the Mid-Cities' most popular neighborhoods and venues",
+      "description": "Our network spans across Dallas–Fort Worth's most popular neighborhoods and venues",
       "overlayTitle": "Serving Southlake and Surrounding Areas",
       "variant": "overlay-titled",
       "locations": [

@@ -258,6 +258,17 @@ content:
           - { name: buttonHref, label: Button Link, type: string }
           - { name: image, label: Image, type: image }
           - { name: imageAlt, label: Image Alt Text, type: string }
+          - name: imageCredit
+            label: "Image Credit (for Creative Commons / stock photos)"
+            type: object
+            fields:
+              - { name: author, label: Author / Photographer, type: string }
+              - { name: authorUrl, label: Author Link, type: string }
+              - { name: license, label: "License (e.g. CC BY-SA 4.0)", type: string }
+              - { name: licenseUrl, label: License Link, type: string }
+              - { name: sourceUrl, label: Source Link (original image page), type: string }
+              - { name: sourceName, label: "Source Name (e.g. Wikimedia Commons)", type: string }
+              - { name: modified, label: "Changes Made (e.g. resized)", type: string }
           - { name: submitText, label: Submit Button Text, type: string }
           - name: variant
             label: Style Variant
@@ -342,6 +353,17 @@ content:
           - { name: buttonHref, label: Button Link, type: string }
           - { name: image, label: Image, type: image }
           - { name: imageAlt, label: Image Alt Text, type: string }
+          - name: imageCredit
+            label: "Image Credit (for Creative Commons / stock photos)"
+            type: object
+            fields:
+              - { name: author, label: Author / Photographer, type: string }
+              - { name: authorUrl, label: Author Link, type: string }
+              - { name: license, label: "License (e.g. CC BY-SA 4.0)", type: string }
+              - { name: licenseUrl, label: License Link, type: string }
+              - { name: sourceUrl, label: Source Link (original image page), type: string }
+              - { name: sourceName, label: "Source Name (e.g. Wikimedia Commons)", type: string }
+              - { name: modified, label: "Changes Made (e.g. resized)", type: string }
           - { name: submitText, label: Submit Button Text, type: string }
           - name: variant
             label: Style Variant

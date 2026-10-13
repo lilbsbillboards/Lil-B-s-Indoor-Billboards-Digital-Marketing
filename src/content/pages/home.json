@@ -1,50 +1,50 @@
 {
-  "title": "{city} {state} Indoor Billboards & Digital Marketing | Lil' B's",
-  "description": "Lil' B's Indoor Billboards & Digital Marketing helps Bedford and Mid-Cities businesses get noticed on indoor digital screens and online. Grow in your community.",
-  "keywords": "indoor billboards {city} {state}, indoor digital billboards {city}, {city} advertising, digital marketing {city} {state}, local advertising Mid-Cities, screen advertising Southlake, advertising North Richland Hills, Colleyville marketing, website design {city}, PPC advertising {city}, social media management {city}",
+  "title": "Local Advertising and Digital Marketing Pros in {city}",
+  "description": "Helping Businesses Get Noticed, On Screens and Online. Premium indoor billboard advertising and comprehensive digital marketing solutions for {city} businesses.",
+  "keywords": "{city} marketing agency, digital marketing {city}, indoor billboard advertising, marketing services {city} {state}, best marketing agency {city}, top {city} marketing agency, social media management {city}, website design {city}, PPC advertising {city}, local marketing {city}, {city} advertising agency",
   "sections": [
     {
       "type": "hero",
-      "badge": "Grow in Your Community",
-      "title": "Indoor Billboards & Digital Marketing in {city}, {state}",
-      "subtitle": "We bring local businesses to the forefront of our community, on screens around town and online.",
-      "buttonText": "Get in Touch Today",
+      "badge": "Premium Marketing Solutions",
+      "title": "Local Advertising and Digital Marketing Pros in {city}",
+      "subtitle": "Helping Businesses Get Noticed, On Screens and Online",
+      "buttonText": "Talk to Our Team",
       "buttonHref": "/contact-us",
-      "image": "/images/home.avif",
-      "imageAlt": "Lil' B's indoor digital billboards playing local ads inside a neighborhood venue"
+      "image": "/images/jersey-city-ge57efc4e1_1920-1.jpg",
+      "imageAlt": "{city} digital marketing"
     },
     {
       "type": "features",
-      "badge": "Services We Offer",
+      "badge": "Explore Our Digital Marketing Services",
       "title": "Local Advertising Solutions for {city} Businesses",
-      "description": "Advertise on our <strong>indoor billboard network</strong>, host a screen in your own business, or let our team handle your digital marketing. We help Mid-Cities businesses get seen.",
+      "description": "As your trusted {city} marketing pros, our billboard network gives you access to high-traffic locations where your ideal customers spend time.",
       "columns": 4,
       "features": [
         {
           "icon": "monitor",
           "title": "Indoor Billboard Advertising",
-          "description": "Full-motion ads on screens in popular restaurants, gyms, and shops across the Mid-Cities",
+          "description": "High-impact advertising in premium indoor locations across {city}",
           "image": "/images/advertising.avif",
           "href": "/indoor-billboards/screen-advertising"
         },
         {
-          "icon": "users",
-          "title": "Host an Indoor Billboard",
-          "description": "Get a screen in your business that promotes you to customers inside and around town",
-          "image": "/images/venue-partner-hero.avif",
-          "href": "/indoor-billboards/become-a-venue-partner"
+          "icon": "share",
+          "title": "Social Media Marketing",
+          "description": "Build and engage your audience with strategic social media content",
+          "image": "/images/social-media-management-hero.avif",
+          "href": "/solutions/foundational/social-media-management"
         },
         {
           "icon": "globe",
           "title": "Custom Website Design",
-          "description": "Mobile-ready websites that showcase your products and turn visitors into customers",
+          "description": "Professional websites that convert visitors into customers",
           "image": "/images/website-design.avif",
           "href": "/solutions/foundational/website-design"
         },
         {
           "icon": "target",
           "title": "Targeted Lead Generation",
-          "description": "Google search ads, social ads, and geofencing that reach customers ready to act",
+          "description": "Strategic campaigns that generate quality leads and maximize exposure",
           "image": "/images/geofencing.avif",
           "href": "/solutions/lead-gen/pay-per-click"
         }
@@ -53,159 +53,136 @@
     {
       "type": "content",
       "variant": "card",
-      "badge": "Who We Are",
-      "title": "A Local Business in {city}, TX",
-      "description": "We connect local businesses to their customers through our <strong>network of indoor digital billboards</strong>. Our screens play full-motion ads for the business hosting the screen, ads for other local businesses in the area, and relevant local content. That lets you reach your customers where they work, shop, eat, and play.<br><br>We have locations all over our community. Check them out and see how we can help your business be seen today.",
+      "title": "{city}'s Premier Venue Partner Network",
+      "badge": "Local Advertising That Reaches Your Audience",
+      "description": "Our digital marketing pros have built exclusive partnerships with {city}'s most popular venues and businesses. Our screen network reaches customers when they're relaxed, engaged, and ready to take action.",
       "image": "/images/screen-network-3.avif",
-      "imageAlt": "Indoor digital billboard showing a local ad inside a Mid-Cities business",
+      "imageAlt": "{city} venue partners",
       "imagePosition": "left",
-      "buttonText": "See Current Locations",
-      "buttonHref": "/indoor-billboards/locations",
+      "buttonText": "View Venue Partners",
+      "buttonHref": "/indoor-billboards/become-a-venue-partner",
       "features": [
         {
-          "icon": "mappin",
-          "text": "Locally owned in {city} since 2023"
+          "icon": "target",
+          "text": "Exclusive venue partnerships"
+        },
+        {
+          "icon": "clock",
+          "text": "High-dwell-time locations"
         },
         {
           "icon": "zap",
-          "text": "Full-motion ads that can't be skipped"
-        },
-        {
-          "icon": "target",
-          "text": "Screens in high-traffic local venues"
+          "text": "Targeted audience reach"
         },
         {
           "icon": "check",
-          "text": "Local content customers actually watch"
+          "text": "Flexible campaign options"
         }
       ]
     },
     {
       "type": "content",
       "variant": "default",
-      "badge": "Indoor Billboard Advertising",
-      "title": "Be Seen Wherever Your Customers Go",
-      "description": "Our indoor billboards are in popular places all over town. From restaurants to gyms and doctors' offices to auto repair shops, <strong>you'll be seen wherever your customers go</strong>. Billboards can't be skipped, paused, or blocked, and they reach people on the go in the places where they spend most of their waking hours.",
-      "image": "/images/indoor-billboard.avif",
-      "imageAlt": "Customers watching an indoor digital billboard in a local venue",
+      "title": "Full-Service Digital Marketing from {city} Pros",
+      "description": "Beyond screen ads, our {city} marketing pros provide full-scale digital marketing to help your business show up, stand out, and grow.",
+      "image": "/images/boost-visibility.avif",
+      "imageAlt": "Digital marketing services",
       "imagePosition": "right",
-      "buttonText": "Start Advertising",
-      "buttonHref": "/indoor-billboards/screen-advertising",
+      "buttonText": "View All Marketing Solutions",
+      "buttonHref": "/solutions",
       "features": [
         {
-          "icon": "clock",
-          "text": "<strong>Captive audience.</strong> Long dwell times in restaurants, gyms, and waiting rooms."
-        },
-        {
-          "icon": "megaphone",
-          "text": "<strong>Stay top of mind.</strong> Your ad plays again and again in the places locals visit every week."
-        },
-        {
-          "icon": "trending",
-          "text": "<strong>Cost-effective rates.</strong> Dominate your neighborhood without a big-city ad budget."
+          "icon": "google",
+          "text": "<strong><a class='underline font-bold' href='/solutions/foundational/google-business-profile'>Google Business Profile Setup</a></strong>. Get found on Google Maps and local search."
         },
         {
           "icon": "palette",
-          "text": "<strong>Custom creative.</strong> We design a full-motion ad built specifically for your business."
+          "text": "<strong><a class='underline font-bold' href='/solutions/foundational/website-design'>Professional Website Design</a></strong>. Fast, mobile-ready websites built for performance."
+        },
+        {
+          "icon": "megaphone",
+          "text": "<strong><a class='underline font-bold' href='/solutions/foundational/social-media-management'>Social Media Strategy</a></strong>. Consistent posting and creative to grow your presence."
+        },
+        {
+          "icon": "trending",
+          "text": "<strong><a class='underline font-bold' href='/solutions/lead-gen/pay-per-click'>PPC Campaign Management</a></strong>. Targeted ads that drive calls, clicks, and leads."
         }
       ]
     },
     {
       "type": "content",
       "variant": "card",
-      "badge": "Host an Indoor Digital Billboard",
-      "title": "Talk to Your Customers in a Whole New Way",
-      "description": "Joining our <a class='underline font-bold' href='/indoor-billboards/become-a-venue-partner'>indoor billboard network</a> gives you a new way to reach the customers already in your business. We'll install an indoor digital screen that educates and up-sells your existing customers with eye-catching ads.<br><br>Your ads also play at other nearby host locations that are non-competing, so new customers see you around town too. We all share the same customers, so why not work together?",
-      "image": "/images/venue-partner-content.avif",
-      "imageAlt": "Restaurant hosting a Lil' B's indoor digital billboard",
+      "badge": "Your Trusted {city} Marketing Partners",
+      "title": "Why {city} Businesses Choose Our Marketing Pros",
+      "description": "We're not just another agency. We're {city} marketing pros and locals who understand the market, know the neighborhoods, and have the relationships that get results. From <a class='underline font-bold' href='/solutions/foundational/website-design'>web design</a> to <a class='underline font-bold' href='/solutions/lead-gen/pay-per-click'>PPC campaigns</a>, we've got you covered.",
+      "image": "/images/marketing-partners.avif",
+      "imageAlt": "{city} marketing partners",
       "imagePosition": "right",
-      "buttonText": "Become a Host Partner",
-      "buttonHref": "/indoor-billboards/become-a-venue-partner",
+      "buttonText": "Get Started Today",
+      "buttonHref": "/contact-us",
       "features": []
-    },
-    {
-      "type": "content",
-      "variant": "default",
-      "badge": "Digital Marketing Services",
-      "title": "Full-Service Digital Marketing from Your Local Team",
-      "description": "We offer complete multichannel marketing, combining our <strong>indoor billboard network</strong> with digital marketing services that help your business show up, stand out, and grow online.",
-      "image": "/images/boost-visibility.avif",
-      "imageAlt": "Digital marketing services for Mid-Cities businesses",
-      "imagePosition": "left",
-      "buttonText": "View All Marketing Solutions",
-      "buttonHref": "/solutions",
-      "features": [
-        {
-          "icon": "google",
-          "text": "<strong><a class='underline font-bold' href='/solutions/foundational/google-business-profile'>Google Business Profile Management</a></strong>. Show up in local search and on Google Maps."
-        },
-        {
-          "icon": "palette",
-          "text": "<strong><a class='underline font-bold' href='/solutions/foundational/website-design'>Website Design</a></strong>. Fast, mobile-ready websites built to convert."
-        },
-        {
-          "icon": "megaphone",
-          "text": "<strong><a class='underline font-bold' href='/solutions/foundational/social-media-management'>Social Media Management</a></strong>. A dedicated team keeps your brand active and engaged."
-        },
-        {
-          "icon": "trending",
-          "text": "<strong><a class='underline font-bold' href='/solutions/lead-gen/pay-per-click'>Pay Per Click (SEM)</a></strong>. Reach qualified leads when they're ready to take action."
-        }
-      ]
     },
     {
       "type": "cta",
       "variant": "bold",
-      "title": "Let's Work Together",
-      "description": "Whether you want to advertise on our screens, host a billboard in your business, or build a complete digital marketing plan, start today. Reach out and someone on our team will be in contact to show you how Lil' B's can help.",
-      "buttonText": "Request More Info",
+      "title": "Partner with {city}'s Local Advertising & Digital Marketing Pros",
+      "description": "Whether you're looking for screen ads, a new website, or a complete digital marketing strategy in {city}, we're here to help. Contact us today for a free consultation.",
+      "buttonText": "Schedule Free Consultation",
       "buttonHref": "/contact-us"
     },
     {
       "type": "faq",
       "badge": "FAQs",
       "title": "Frequently Asked Questions",
-      "description": "Everything you need to know about indoor billboards and our marketing services",
+      "description": "Everything you need to know about our services",
       "faqs": [
         {
-          "question": "What is indoor digital billboard advertising?",
-          "answer": "It's the placement of your full-motion ads on TV screens inside high-traffic local venues like restaurants, gyms, barbershops, and dessert shops. Your brand is seen where people are already relaxed and engaged, and the ads can't be skipped, paused, or blocked."
-        },
-        {
-          "question": "Where are your screens located?",
-          "answer": "Our screens are in popular businesses across {city} and the surrounding Mid-Cities. <a class='underline font-bold' href='/indoor-billboards/locations'>See our current host locations</a>."
-        },
-        {
-          "question": "How do I host a screen in my business?",
-          "answer": "Reach out to our team. We'll install an indoor digital screen in your business, create a full-screen ad that plays to your own customers, and run your ads at other nearby non-competing host locations. <a class='underline font-bold' href='/indoor-billboards/become-a-venue-partner'>Learn more about hosting</a>."
+          "question": "What is Indoor Digital Signage Advertising?",
+          "answer": "It's the placement of your ads on TV screens located inside high-traffic venues, offering brand visibility where people are already engaged."
         },
         {
           "question": "Do you offer packages that include screens and online ads?",
-          "answer": "Yes! We combine <a class='underline font-bold' href='/indoor-billboards/screen-advertising'>indoor billboards</a> with digital marketing services like <a class='underline font-bold' href='/solutions/lead-gen/social-media-advertising'>social ads</a>, <a class='underline font-bold' href='/solutions/lead-gen/pay-per-click'>Google Ads</a>, and SEO to maximize your reach both online and offline. Exclusive sponsor opportunities are also available."
+          "answer": "Yes! We offer bundled packages that combine <a class='underline font-bold' href='/indoor-billboards/screen-advertising'>indoor billboards</a> with digital marketing services like <a class='underline font-bold' href='/solutions/lead-gen/social-media-advertising'>social ads</a>, <a class='underline font-bold' href='/solutions/lead-gen/pay-per-click'>Google Ads</a>, and SEO to maximize your reach both online and offline."
         },
         {
           "question": "Can you help my business rank on Google?",
-          "answer": "Absolutely. We manage your <a class='underline font-bold' href='/solutions/foundational/google-business-profile'>Google Business Profile</a>, posts, and reviews, and build local search strategies that help your business show up when customers search in {city} and nearby."
+          "answer": "Absolutely. We provide SEO services, <a class='underline font-bold' href='/solutions/foundational/google-business-profile'>Google Business setup</a>, and local search strategies to help your business show up when customers are searching for your services in {city}."
         }
       ]
     },
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our <strong>network</strong> spans {city} and the Mid-Cities' most popular neighborhoods and venues",
+      "description": "Our network spans across {city}'s most popular neighborhoods and venues",
       "variant": "overlay-titled",
       "locations": [
-        { "name": "Bedford", "href": "/locations/bedford", "description": "Central Mid-Cities" },
-        { "name": "Southlake", "href": "/locations/southlake", "description": "Northeast Tarrant County" },
-        { "name": "North Richland Hills", "href": "/locations/north-richland-hills", "description": "West Mid-Cities" },
-        { "name": "Colleyville", "href": "/locations/colleyville", "description": "North Mid-Cities" }
+        {
+          "name": "Bedford",
+          "href": "/locations/bedford",
+          "description": "Central Mid-Cities"
+        },
+        {
+          "name": "Southlake",
+          "href": "/locations/southlake",
+          "description": "Northeast Tarrant County"
+        },
+        {
+          "name": "North Richland Hills",
+          "href": "/locations/north-richland-hills",
+          "description": "West Mid-Cities"
+        },
+        {
+          "name": "Colleyville",
+          "href": "/locations/colleyville",
+          "description": "North Mid-Cities"
+        }
       ]
     },
     {
       "type": "cta",
       "variant": "banner",
       "title": "Ready to get started?",
-      "description": "Contact us today to learn how we can help your business grow in the community.",
+      "description": "Contact us today to learn how we can help grow your business.",
       "buttonText": "Get In Touch",
       "buttonHref": "/contact-us"
     }

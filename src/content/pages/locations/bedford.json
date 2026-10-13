@@ -1,27 +1,44 @@
 {
-  "title": "Bedford TX Indoor Billboards & Digital Marketing | Lil' B's",
-  "description": "Lil' B's helps Bedford, TX businesses get seen with indoor digital billboards, PPC, social media, SEO, and website design that keep brands top of mind.",
-  "keywords": "indoor billboards Bedford TX, digital marketing Bedford, Bedford advertising, Bedford marketing services, social media management Bedford, website design Bedford TX, PPC advertising Bedford, local marketing Bedford Texas",
+  "title": "Bedford TX Digital Signage & Marketing | {business}",
+  "description": "We connect businesses in Bedford TX through digital signage, PPC, social media, SEO, and website design to keep brands visible and top of mind.",
+  "keywords": "marketing agency Bedford TX, digital marketing Bedford, Bedford marketing services, social media management Bedford, website design Bedford, SEO Bedford, PPC advertising Bedford, local marketing Bedford Texas",
   "location": "Bedford",
-  "city": "Bedford",
   "sections": [
     {
       "type": "hero",
-      "badge": "Grow in Your Community",
-      "title": "Indoor Billboards & Digital Marketing in Bedford, TX",
-      "description": "Helping Bedford businesses get noticed, on screens around town and online",
+      "badge": "Premium Marketing Solutions",
+      "title": "Local Advertising and Digital Marketing Pros in Bedford, TX",
+      "description": "Helping Bedford Businesses Get Noticed, On Screens and Online",
       "buttonText": "Contact Our Advertising Experts",
       "buttonHref": "/contact-us",
-      "image": "/images/indoor-billboard.avif",
-      "imageAlt": "Indoor digital billboard in a Bedford area venue"
+      "image": "/images/locations/bedford-hero.avif",
+      "imageAlt": "The historic Old Bedford School in Bedford, Texas",
+      "imageCredit": {
+        "author": "Renelibrary",
+        "authorUrl": "https://commons.wikimedia.org/wiki/User:Renelibrary",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BedfordSchool1_(1_of_1).jpg",
+        "sourceName": "Wikimedia Commons",
+        "modified": "resized"
+      }
     },
     {
       "type": "content",
       "variant": "dark",
       "title": "Your Local Marketing Partner in Bedford",
-      "description": "Bedford is our home base. We're a local business right here in Bedford, and since 2023 we've been helping neighbors along the Airport Freeway (SH 183) corridor get noticed, on indoor digital billboards in the places locals go every day and online with websites, social media, and search ads. We know the Mid-Cities market because we live and work in it.",
-      "image": "/images/indoor-billboard.avif",
-      "imageAlt": "Bedford local advertising partner",
+      "description": "We're a full-service digital marketing agency dedicated to helping Bedford businesses succeed online. Whether you need a new website, social media management, or advertising campaigns, we provide personalized strategies that deliver real results. We understand the local market and know what it takes to stand out in Bedford and the greater Dallas–Fort Worth area.",
+      "image": "/images/locations/bedford-content.avif",
+      "imageAlt": "Children statues in front of the Old Bedford School in Bedford, Texas",
+      "imageCredit": {
+        "author": "Andrew Postell",
+        "authorUrl": "https://commons.wikimedia.org/wiki/User:Andrew_Postell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Children_Statues_Front_Building.jpg",
+        "sourceName": "Wikimedia Commons",
+        "modified": "resized"
+      },
       "imagePosition": "left"
     },
     {
@@ -57,7 +74,7 @@
         { "icon": "share", "title": "Social Media Marketing", "description": "Engage your audience and build your brand on Facebook, Instagram, LinkedIn, and more with strategic content and management.", "href": "/solutions/foundational/social-media-management" },
         { "icon": "dollar", "title": "Pay-Per-Click Advertising", "description": "Get immediate results with targeted Google Ads and social media advertising campaigns that maximize your exposure.", "href": "/solutions/lead-gen/pay-per-click" },
         { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in Bedford.", "href": "/solutions/foundational/google-business-profile" },
-        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "Full-motion ads on indoor screens in popular restaurants, gyms, and shops across the Mid-Cities.", "href": "/indoor-billboards/screen-advertising" },
+        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "High-impact advertising in premium indoor locations across the Dallas–Fort Worth metro.", "href": "/indoor-billboards/screen-advertising" },
         { "icon": "megaphone", "title": "Display & Geofencing", "description": "Location-based display advertising that targets customers where they spend time.", "href": "/solutions/branding-awareness/display-geofencing" }
       ]
     },
@@ -92,8 +109,7 @@
       "title": "Common Questions About Our Services",
       "description": "Get answers to the most common questions Bedford businesses ask us.",
       "faqs": [
-        { "question": "Are you actually based in Bedford?", "answer": "Yes. Lil' B's is a local Bedford business. We started our indoor billboard network here in 2023 and serve businesses across Bedford and the surrounding Mid-Cities." },
-        { "question": "Do you only work with businesses in Bedford?", "answer": "While we specialize in serving Bedford businesses, we work with clients throughout the Mid-Cities and the greater Dallas–Fort Worth area." },
+        { "question": "Do you only work with businesses in Bedford?", "answer": "While we specialize in serving Bedford businesses, we work with clients throughout the Dallas–Fort Worth metro area and beyond." },
         { "question": "What types of businesses do you work with?", "answer": "We work with businesses of all sizes and industries, from local shops and restaurants to professional services and e-commerce stores." },
         { "question": "How much do your services cost?", "answer": "Every business has different needs and budgets. We offer flexible packages and custom solutions. <a class='underline font-bold' href='/contact-us'>Contact us</a> for a free consultation and personalized quote." },
         { "question": "Do I need to sign a long-term contract?", "answer": "We offer both project-based work and ongoing monthly services. Many clients start with a project and then continue with monthly marketing support." },
@@ -104,7 +120,7 @@
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our <strong>network</strong> spans the Mid-Cities' most popular neighborhoods and venues",
+      "description": "Our network spans across Dallas–Fort Worth's most popular neighborhoods and venues",
       "overlayTitle": "Serving Bedford and Surrounding Areas",
       "variant": "overlay-titled",
       "locations": [

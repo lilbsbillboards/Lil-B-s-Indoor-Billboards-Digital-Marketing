@@ -1,17 +1,17 @@
 {
-  "title": "Indoor Billboard Locations in {city} & the Mid-Cities | Lil' B's",
-  "description": "See where your ads could appear on Lil' B's indoor digital billboard network in {city} and the Mid-Cities, from restaurants and dessert shops to gyms and barbershops.",
-  "keywords": "indoor billboard locations {city}, digital signage locations {city} {state}, screen advertising venues Mid-Cities, indoor billboard network Southlake, North Richland Hills advertising venues, Colleyville screen advertising, high traffic advertising locations",
+  "title": "Indoor Billboard Locations in {city} | {business}",
+  "description": "See where your ads could appear across our indoor digital billboard network in {city}, including high-traffic restaurants, bars, gyms, & venues.",
+  "keywords": "indoor billboard locations {city}, digital signage locations {city}, screen advertising venues {city}, billboard network locations, {city} advertising venues, high traffic advertising locations",
   "sections": [
     {
       "type": "hero",
       "badge": "Indoor Billboard Network",
       "title": "Our Network Partners",
-      "description": "Check out where you could be seen in the community.",
-      "buttonText": "Get in Touch Today",
-      "buttonHref": "/contact-us",
+      "description": "Check out where you could be seen in the community with our screen advertising network.",
+      "buttonText": "Start Advertising",
+      "buttonHref": "/indoor-billboards/screen-advertising",
       "image": "/images/hero-locations.avif",
-      "imageAlt": "Indoor billboard network locations across the Mid-Cities"
+      "imageAlt": "Indoor billboard network locations across the city"
     },
     {
       "type": "platforms",
@@ -51,10 +51,10 @@
     },
     {
       "type": "locations",
-      "title": "Host Partner Map",
-      "description": "Our <a class='underline font-bold' href='/indoor-billboards/screen-advertising'>screens</a> can be found in many popular locations throughout the community. Interested in hosting a screen? <a class='underline font-bold' href='/indoor-billboards/become-a-venue-partner'>Become a host partner</a>.",
+      "title": "Our Locations",
+      "description": "Our <a class='underline font-bold' href='/indoor-billboards/screen-advertising'>screens</a> can be found in many popular locations throughout the community. Interested in hosting a screen? <a class='underline font-bold' href='/indoor-billboards/become-a-venue-partner'>Become a venue partner</a>.",
       "overlayBadge": "Network Coverage",
-      "overlayTitle": "Serving {city} and the Mid-Cities",
+      "overlayTitle": "Our Locations",
       "variant": "overlay-titled",
       "locations": [
         { "name": "Bedford", "href": "/locations/bedford", "description": "Central Mid-Cities" },
@@ -72,19 +72,19 @@
         {
           "icon": "monitor",
           "title": "Start Advertising",
-          "description": "Ready to get your brand in front of local customers every day? <a class='underline font-bold' href='/indoor-billboards/screen-advertising'>Learn how our screen advertising network</a> can boost your visibility and drive results.",
+          "description": "Ready to get your brand in front of thousands of local customers? <a class='underline font-bold' href='/indoor-billboards/screen-advertising'>Learn how our screen advertising network</a> can boost your visibility and drive results.",
           "href": "/indoor-billboards/screen-advertising"
         },
         {
           "icon": "users",
           "title": "Host a Screen",
-          "description": "Own a busy local business? <a class='underline font-bold' href='/indoor-billboards/become-a-venue-partner'>Become a host partner</a> to promote your business inside your location and across the entire network.",
+          "description": "Own a high-traffic venue? <a class='underline font-bold' href='/indoor-billboards/become-a-venue-partner'>Partner with us to monetize your space</a> and promote your business across our entire network.",
           "href": "/indoor-billboards/become-a-venue-partner"
         },
         {
           "icon": "message",
           "title": "Contact Our Team",
-          "description": "Have questions about our network or want to learn more? <a class='underline font-bold' href='/contact-us'>Get in touch with our team</a> and we'll show you how Lil' B's can help.",
+          "description": "Have questions about our network or want to learn more? <a class='underline font-bold' href='/contact-us'>Get in touch with our team</a> for a free consultation.",
           "href": "/contact-us"
         }
       ]
@@ -98,15 +98,15 @@
       "faqs": [
         {
           "question": "Where are your screens located?",
-          "answer": "Our indoor digital billboards are in popular local businesses across {city} and the Mid-Cities, including restaurants, coffee and dessert shops, gyms and training studios, barbershops, and entertainment venues. Check the map above to see our current host partners."
+          "answer": "Our indoor digital billboards are placed in popular high-traffic venues across {city}, including restaurants, gyms, salons, and retail stores. Check the map above to see our current locations."
         },
         {
           "question": "How do I get my ad on your screens?",
-          "answer": "It's easy! Reach out to our team and we'll walk you through the options, create your custom full-motion ad, and get you live across the <a class='underline font-bold' href='/indoor-billboards/screen-advertising'>screen advertising network</a> locations that best match your audience."
+          "answer": "It's easy! Reach out to our team and we'll walk you through the options, create your custom motion ad, and get you live across the <a class='underline font-bold' href='/indoor-billboards/screen-advertising'>screen advertising network</a> locations that best match your target audience."
         },
         {
           "question": "Can my business host a screen?",
-          "answer": "If you run a busy local business, absolutely. Host partners get a full-screen ad inside their own location, their ads played at other nearby non-competing hosts, and more. Learn how to <a class='underline font-bold' href='/indoor-billboards/become-a-venue-partner'>become a host partner</a>."
+          "answer": "If you run a high-traffic venue, absolutely. Venue partners enjoy discounted screen advertising, cross-network promotion, and more. Learn how to <a class='underline font-bold' href='/indoor-billboards/become-a-venue-partner'>become a venue partner</a>."
         }
       ]
     },

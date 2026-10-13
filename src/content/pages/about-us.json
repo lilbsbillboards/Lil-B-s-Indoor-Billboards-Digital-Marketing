@@ -1,63 +1,63 @@
 {
-  "title": "About Lil' B's Indoor Billboards | {city}, {state}",
-  "description": "Lil' B's Indoor Billboards & Digital Marketing is a locally owned {city}, TX business helping Mid-Cities brands get seen on screens and online since 2023.",
-  "keywords": "about Lil' B's Indoor Billboards, {city} advertising company, indoor billboard company {city} {state}, local marketing company Mid-Cities, digital marketing team {city}",
+  "title": "About {business} | Local Business Branding",
+  "description": "{business} - Built for local businesses.",
+  "keywords": "{city} marketing agency about, marketing company {city}, digital marketing team {city}, {city} advertising agency team, marketing agency story",
   "sections": [
     {
       "type": "hero",
-      "badge": "Locally Owned Since 2023",
+      "badge": "Learn About Our Story",
       "title": "About Us",
-      "description": "We bring local businesses to the forefront of our community.",
+      "description": "{business} - Built for local businesses.",
       "buttonText": "Get In Touch",
       "buttonHref": "/contact-us",
       "image": "/images/about-us-partner.avif",
-      "imageAlt": "Lil' B's team meeting with a local business owner"
+      "imageAlt": "{city} digital marketing agency team"
     },
     {
       "type": "content",
       "badge": "Who We Are",
       "variant": "card",
-      "title": "A Local Business Helping {city} Grow",
-      "description": "Lil' B's Indoor Billboards & Digital Marketing is a local business in {city}, Texas. Since 2023, we've connected local businesses to their customers through our network of <a class='underline font-bold' href='/indoor-billboards/screen-advertising'>indoor digital billboards</a>, screens in popular restaurants, gyms, shops, and service businesses that play full-motion ads for the host business, ads for other local businesses, and relevant local content.<br><br>Beyond the screens, we offer complete multichannel marketing, from <a class='underline font-bold' href='/solutions/foundational/website-design'>website design</a> and <a class='underline font-bold' href='/solutions/foundational/google-business-profile'>Google Business Profile management</a> to <a class='underline font-bold' href='/solutions'>social media and paid advertising</a>, so you can reach customers where they work, shop, eat, and play, and online.<br><br>We live and work in the Mid-Cities, and we believe local businesses grow stronger together. We all share the same customers, so why not work together?",
+      "title": "We Are a Local Business in Bedford, TX",
+      "description": "We connect local businesses to their customers through our Network of screens that have our Indoor Digital Billboards in their locations. These screens display full motion ads about the business hosting the screen, ads for local businesses in the area, and relevant local content. This network of screens allows you to reach your customers where they work, shop, eat, and play!<br><br>We have locations all over our community. <a class='underline font-bold' href='/indoor-billboards/locations'>Check them out</a> and see what we can do to help your business be seen today!",
       "image": "/images/about-us-team.avif",
-      "imageAlt": "Lil' B's team planning a local advertising campaign",
+      "imageAlt": "Marketing team working on client campaigns",
       "imagePosition": "left",
       "features": []
     },
     {
       "type": "valueCards",
       "badge": "Why Choose Us",
-      "title": "5 Reasons To Choose Lil' B's",
+      "title": "5 Reasons To Choose Us",
       "variant": "overlay",
       "cards": [
         {
           "icon": "pin",
-          "title": "Local to the Mid-Cities",
-          "description": "We're based in {city} and our screens are in businesses your customers already visit across Bedford, Southlake, North Richland Hills, Colleyville, and beyond.",
+          "title": "Experts in Local Marketing",
+          "description": "Our marketing strategies are finely tuned to reach your specific community. From indoor digital billboards to robust digital campaigns, we ensure your brand connects with the people who matter most.",
           "image": "/images/local-marketing-experts.avif"
         },
         {
           "icon": "people",
           "title": "Community-Based Advertising",
-          "description": "Our network connects neighboring, non-competing businesses so everyone benefits. Your ads play in your own location and at other host venues around town.",
+          "description": "We understand the value of community and tailor our campaigns to resonate with local values and interests. This approach boosts visibility and fosters strong relationships with your audience.",
           "image": "/images/community-advertising.avif"
         },
         {
           "icon": "dollar",
-          "title": "Cost-Effective Rates",
-          "description": "Indoor billboards and targeted digital campaigns give you more reach for your budget than traditional outdoor or broadcast advertising.",
+          "title": "Affordability",
+          "description": "We offer cost-effective marketing solutions tailored to your budget, providing exceptional value without compromising on quality or impact.",
           "image": "/images/affordability.avif"
         },
         {
           "icon": "sparkle",
-          "title": "Custom Creative",
-          "description": "We design eye-catching, full-motion ads built specifically for your business, plus the social, display, and website content that goes with them.",
+          "title": "Amazing Creative",
+          "description": "Our team excels at creating dynamic, engaging content that stands out. From social media content to PPC campaigns, we deliver results.",
           "image": "/images/amazing-creative.avif"
         },
         {
           "icon": "award",
-          "title": "Ads That Can't Be Skipped",
-          "description": "Our screens reach a captive audience with long dwell times. Your ad can't be skipped, paused, or blocked, so it keeps you top of mind.",
+          "title": "A Proven Track Record",
+          "description": "We have a history of successful campaigns that drive results. Our clients have seen significant increases in brand awareness, foot traffic, and customer engagement.",
           "image": "/images/track-record.avif"
         }
       ]
@@ -65,13 +65,29 @@
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our <strong>network</strong> spans {city} and the Mid-Cities' most popular neighborhoods and venues",
+      "description": "Our network spans across {city}'s most popular neighborhoods and venues",
       "variant": "overlay-titled",
       "locations": [
-        { "name": "Bedford", "href": "/locations/bedford", "description": "Central Mid-Cities" },
-        { "name": "Southlake", "href": "/locations/southlake", "description": "Northeast Tarrant County" },
-        { "name": "North Richland Hills", "href": "/locations/north-richland-hills", "description": "West Mid-Cities" },
-        { "name": "Colleyville", "href": "/locations/colleyville", "description": "North Mid-Cities" }
+        {
+          "name": "Bedford",
+          "href": "/locations/bedford",
+          "description": "Central Mid-Cities"
+        },
+        {
+          "name": "North Richland Hills",
+          "href": "/locations/north-richland-hills",
+          "description": "West Mid-Cities"
+        },
+        {
+          "name": "Southlake",
+          "href": "/locations/southlake",
+          "description": "Northeast Tarrant County"
+        },
+        {
+          "name": "Colleyville",
+          "href": "/locations/colleyville",
+          "description": "North Mid-Cities"
+        }
       ]
     },
     {
@@ -81,15 +97,15 @@
       "faqs": [
         {
           "question": "How long have you been in business?",
-          "answer": "Lil' B's Indoor Billboards & Digital Marketing has been serving {city} and the Mid-Cities since 2023."
+          "answer": "We have over 20 years of corporate marketing experience working with Fortune 500 companies, now dedicated to helping local businesses succeed."
         },
         {
           "question": "What industries do you work with?",
-          "answer": "We work with local businesses of all kinds, including restaurants, dessert shops, gyms and training studios, barbershops, medical offices, auto repair, and professional services. Explore our full range of <a class='underline font-bold' href='/solutions'>marketing solutions</a> to see how we can help."
+          "answer": "We work with businesses of all sizes and industries, from local shops and restaurants to professional services and e-commerce stores. Explore our full range of <a class='underline font-bold' href='/solutions'>marketing solutions</a> to see how we can help."
         },
         {
           "question": "Do you offer free consultations?",
-          "answer": "Yes! We'll talk through your goals and show you how our screens and digital marketing can help. <a class='underline font-bold' href='/contact-us'>Reach out today</a> to get started."
+          "answer": "Yes! We offer free consultations to discuss your business goals and how we can help you achieve them. <a class='underline font-bold' href='/contact-us'>Reach out today</a> to get started."
         }
       ]
     },
@@ -97,7 +113,7 @@
       "type": "cta",
       "variant": "banner",
       "title": "Ready to get started?",
-      "description": "Contact us today to learn how we can help your business grow in the community.",
+      "description": "Contact us today to learn how we can help grow your business.",
       "buttonText": "Get In Touch",
       "buttonHref": "/contact-us"
     }

@@ -15,9 +15,9 @@
         "title": "Indoor Billboards",
         "items": [
           {
-            "text": "Become a Host Partner",
+            "text": "Become a Venue Partner",
             "href": "/indoor-billboards/become-a-venue-partner",
-            "description": "Host a screen in your business"
+            "description": "Join our network of premium venues"
           },
           {
             "text": "Locations",
@@ -130,7 +130,7 @@
         "title": "Indoor Billboards",
         "links": [
           {
-            "text": "Become a Host Partner",
+            "text": "Become a Venue Partner",
             "href": "/indoor-billboards/become-a-venue-partner"
           },
           {
@@ -165,7 +165,7 @@
         ]
       }
     ],
-    "copyright": "© 2026 Lil' B's Indoor Billboards & Digital Marketing. All rights reserved.",
+    "copyright": "© 2025 Lil' B's Indoor Billboards & Digital Marketing. All rights reserved.",
     "madeBy": "Made by <a href='https://ntv360.com' target='_blank' rel='noopener'>NTV360</a>"
   }
 }

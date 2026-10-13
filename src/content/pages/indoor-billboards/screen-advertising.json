@@ -1,13 +1,13 @@
 {
-  "title": "Indoor Billboard Advertising in {city}, {state} | Lil' B's",
-  "description": "Advertise in your community on Lil' B's indoor digital billboards. Full-motion ads that can't be skipped, shown in popular {city} and Mid-Cities businesses.",
+  "title": "High-Traffic Digital Billboard Advertising Network",
+  "description": "Promote your business across our high-traffic digital signage network with ads displayed thousands of times to repeat local customers.",
   "keywords": "indoor digital billboard advertising {city}, screen advertising {city}, digital signage advertising, indoor billboard network, local screen advertising {city}, venue advertising {city}",
   "sections": [
     {
       "type": "hero",
-      "badge": "Indoor Billboard Advertising",
-      "title": "Advertise in Your Community",
-      "description": "Reach your customers when they are on the go.",
+      "badge": "Indoor Billboard Network",
+      "title": "Indoor Digital Billboard Advertising",
+      "description": "Connecting brands with audiences everywhere.",
       "buttonText": "Get In Touch",
       "buttonHref": "/contact-us",
       "image": "/images/indoor-billboard.avif",
@@ -17,8 +17,8 @@
     {
       "type": "content",
       "variant": "dark",
-      "title": "Be Seen in Popular Businesses",
-      "description": "Our screens can be found in many popular locations throughout the community. Reach customers every month with a custom full-motion ad designed specifically for your business. With your name, brand, and logo front and center, you'll stay top of mind with existing customers while building awareness with new ones. See our <a class='underline font-bold' href='/indoor-billboards/locations'>host partner locations across {city} and the Mid-Cities</a>.",
+      "title": "Screen Network Ads",
+      "description": "Your personalized motion advertisement will be showcased repeatedly across our hyper-local digital screen network, reaching individuals as they navigate their daily routines. With your name, brand, and logo prominently displayed, you'll stay at the forefront of existing customers' minds while building brand awareness among potential new customers. Our screens are strategically placed in <a class='underline font-bold' href='/indoor-billboards/locations'>high-traffic venues across {city}</a>.",
       "image": "/images/screen-network-3.avif",
       "imageAlt": "Indoor digital billboard content display",
       "imagePosition": "left"
@@ -26,40 +26,40 @@
     {
       "type": "cta",
       "variant": "card",
-      "title": "Exclusive Sponsor Opportunities Available",
-      "description": "Want even greater visibility? We offer unique enhanced packages for businesses that want to stand out across the network. Pair your screen ads with channels like <a class='underline font-bold' href='/solutions/lead-gen/social-media-advertising'>Social Media Ads</a>, <a class='underline font-bold' href='/solutions/branding-awareness/display-geofencing'>Display Advertising</a>, or a <a class='underline font-bold' href='/solutions/foundational/website-design'>Custom Website</a> to build your brand faster.",
-      "buttonText": "Contact Us to Learn More",
+      "title": "Our Advertising Screen Network can Increase Your Brand Recognition",
+      "description": "Repeated exposure to your brand message helps you stay top of mind with your target audience. Indoor digital billboards give you the unique ability to reach viewers on a platform where you can't be paused, skipped, or blocked. Build your brand faster by pairing screen advertising with channels like <a class='underline font-bold' href='/solutions/lead-gen/social-media-advertising'>Social Media Ads</a>, <a class='underline font-bold' href='/solutions/branding-awareness/display-geofencing'>Display Advertising</a>, or a <a class='underline font-bold' href='/solutions/foundational/website-design'>Custom Website</a>.",
+      "buttonText": "Learn More",
       "buttonHref": "/contact-us"
     },
     {
       "type": "features",
-      "title": "5 Reasons to Advertise With Us",
+      "title": "5 Benefits of Screen Network",
       "columns": 3,
       "features": [
         {
           "icon": "target",
-          "title": "Stay Top of Mind and Relevant",
-          "description": "Your ad plays again and again in the <a class='underline font-bold' href='/indoor-billboards/locations'>local businesses your customers visit</a>, so your brand is the one they remember when it's time to buy."
-        },
-        {
-          "icon": "share",
-          "title": "Complement Existing Marketing",
-          "description": "Indoor billboards are the perfect addition to your other channels, like <a class='underline font-bold' href='/solutions/lead-gen/social-media-advertising'>social ads</a>, <a class='underline font-bold' href='/solutions/lead-gen/pay-per-click'>Google Ads</a>, and your website."
-        },
-        {
-          "icon": "award",
-          "title": "Dominate Your Neighborhood",
-          "description": "Own your corner of the Mid-Cities by showing up in the restaurants, gyms, and shops right around your business."
-        },
-        {
-          "icon": "dollar",
-          "title": "Cost-Effective Rates",
-          "description": "Get repeated local exposure for a fraction of what traditional billboards, TV, or radio cost."
+          "title": "Local Reach",
+          "description": "Advertising on a local network of digital signage screens strategically positioned in <a class='underline font-bold' href='/indoor-billboards/locations'>high-traffic areas across {city}</a> offers businesses a direct channel to engage with their local audience."
         },
         {
           "icon": "monitor",
-          "title": "Captive Audience & Long Dwell Time",
-          "description": "People are seated, waiting, or working out, and our full-motion ads can't be skipped, paused, or blocked."
+          "title": "Non-Skippable",
+          "description": "The inability to skip ads on these screens is advantageous as it guarantees continuous exposure to a captivated audience."
+        },
+        {
+          "icon": "award",
+          "title": "Brand Recall",
+          "description": "The repeated exposure to passersby on local digital signage networks creates greater brand recall compared to other marketing channels."
+        },
+        {
+          "icon": "settings",
+          "title": "Update Your Message",
+          "description": "The capability to promptly adjust marketing messages grants businesses the flexibility to respond to changing market dynamics and seize immediate opportunities."
+        },
+        {
+          "icon": "share",
+          "title": "Cross Channel Compliment",
+          "description": "It's the perfect addition to other marketing channels. This integrated strategy guarantees an expansive marketing reach and deeper engagement across multiple platforms."
         }
       ]
     },
@@ -138,7 +138,7 @@
       "faqs": [
         {
           "question": "What if I want a screen inside my location?",
-          "answer": "Reach out to us to see if your business qualifies to join our network. We look for busy local businesses with good dwell times and customers who'd benefit from what other local businesses offer. <a class='underline font-bold' href='/indoor-billboards/become-a-venue-partner'>Become a venue partner</a> today, or view our current <a class='underline font-bold' href='/indoor-billboards/locations'>network locations</a> to see where we're already established."
+          "answer": "Reach out to us to see if your business qualifies to join our network. We choose locations based on factors like high traffic, dwell times, brand names, or effective marketing. <a class='underline font-bold' href='/indoor-billboards/become-a-venue-partner'>Become a venue partner</a> today, or view our current <a class='underline font-bold' href='/indoor-billboards/locations'>network locations</a> to see where we're already established."
         },
         {
           "question": "What if I already have content for my campaigns for the year?",
@@ -159,19 +159,19 @@
         {
           "icon": "target",
           "title": "View Our Locations",
-          "description": "Curious where your ads will appear? <strong>Check out our host partner network</strong> across {city} and the Mid-Cities and see where your brand could be featured.",
+          "description": "Curious where your ads will appear? Check out our network of high-traffic venues across {city} and see where your brand could be featured.",
           "href": "/indoor-billboards/locations"
         },
         {
           "icon": "megaphone",
-          "title": "Become a Host Partner",
-          "description": "Own a busy local business? <strong>Host a screen</strong> to promote your business inside your location and across the network.",
+          "title": "Become a Venue Partner",
+          "description": "Own a high-traffic venue? Join our network and monetize your space while promoting your business across other locations.",
           "href": "/indoor-billboards/become-a-venue-partner"
         },
         {
           "icon": "share",
           "title": "Get Started Today",
-          "description": "Ready to launch your campaign? <strong>Contact our team for a free consultation</strong> and discover how screen advertising can transform your business.",
+          "description": "Ready to launch your campaign? Contact our team for a free consultation and discover how screen advertising can transform your business.",
           "href": "/contact-us"
         }
       ]
@@ -179,29 +179,13 @@
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our <strong>network</strong> spans {city} and the Mid-Cities' most popular neighborhoods and venues",
+      "description": "Our network spans across {city}'s most popular neighborhoods and venues",
       "variant": "overlay-titled",
       "locations": [
-        {
-          "name": "Bedford",
-          "href": "/locations/bedford",
-          "description": "Central Mid-Cities"
-        },
-        {
-          "name": "Southlake",
-          "href": "/locations/southlake",
-          "description": "Northeast Tarrant County"
-        },
-        {
-          "name": "North Richland Hills",
-          "href": "/locations/north-richland-hills",
-          "description": "West Mid-Cities"
-        },
-        {
-          "name": "Colleyville",
-          "href": "/locations/colleyville",
-          "description": "North Mid-Cities"
-        }
+        { "name": "Bedford", "href": "/locations/bedford", "description": "Central Mid-Cities" },
+        { "name": "North Richland Hills", "href": "/locations/north-richland-hills", "description": "West Mid-Cities" },
+        { "name": "Southlake", "href": "/locations/southlake", "description": "Northeast Tarrant County" },
+        { "name": "Colleyville", "href": "/locations/colleyville", "description": "North Mid-Cities" }
       ]
     },
     {

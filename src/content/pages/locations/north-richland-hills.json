@@ -1,27 +1,44 @@
 {
-  "title": "North Richland Hills TX Indoor Billboards & Digital Marketing | Lil' B's",
-  "description": "Lil' B's helps North Richland Hills, TX businesses get seen with indoor digital billboards, PPC, social media, SEO, and website design that keep brands top of mind.",
-  "keywords": "indoor billboards North Richland Hills TX, digital marketing North Richland Hills, North Richland Hills advertising, North Richland Hills marketing services, social media management North Richland Hills, website design North Richland Hills TX, PPC advertising North Richland Hills, local marketing North Richland Hills Texas",
+  "title": "North Richland Hills TX Digital Signage & Marketing | {business}",
+  "description": "We connect businesses in North Richland Hills TX through digital signage, PPC, social media, SEO, and website design to keep brands visible and top of mind.",
+  "keywords": "marketing agency North Richland Hills TX, digital marketing North Richland Hills, North Richland Hills marketing services, social media management North Richland Hills, website design North Richland Hills, SEO North Richland Hills, PPC advertising North Richland Hills, local marketing North Richland Hills Texas",
   "location": "North Richland Hills",
-  "city": "North Richland Hills",
   "sections": [
     {
       "type": "hero",
-      "badge": "Grow in Your Community",
-      "title": "Indoor Billboards & Digital Marketing in North Richland Hills, TX",
-      "description": "Helping North Richland Hills businesses get noticed, on screens around town and online",
+      "badge": "Premium Marketing Solutions",
+      "title": "Local Advertising and Digital Marketing Pros in North Richland Hills, TX",
+      "description": "Helping North Richland Hills Businesses Get Noticed, On Screens and Online",
       "buttonText": "Contact Our Advertising Experts",
       "buttonHref": "/contact-us",
-      "image": "/images/locations.avif",
-      "imageAlt": "Indoor digital billboard in a North Richland Hills area venue"
+      "image": "/images/locations/north-richland-hills-hero.avif",
+      "imageAlt": "TEXRail station platform in North Richland Hills, Texas",
+      "imageCredit": {
+        "author": "DerekAyala27",
+        "authorUrl": "https://commons.wikimedia.org/wiki/User:DerekAyala27",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trinity_Metro_Station_NRH.jpg",
+        "sourceName": "Wikimedia Commons",
+        "modified": "resized"
+      }
     },
     {
       "type": "content",
       "variant": "dark",
       "title": "Your Local Marketing Partner in North Richland Hills",
-      "description": "North Richland Hills is full of local favorites, from neighborhood restaurants to fitness studios along Loop 820 and Rufe Snow Drive. Our indoor digital billboards reach NRH customers right where they spend their time, and our digital marketing services help them find you online too.",
-      "image": "/images/locations.avif",
-      "imageAlt": "North Richland Hills local advertising partner",
+      "description": "We're a full-service digital marketing agency dedicated to helping North Richland Hills businesses succeed online. Whether you need a new website, social media management, or advertising campaigns, we provide personalized strategies that deliver real results. We understand the local market and know what it takes to stand out in North Richland Hills and the greater Dallas–Fort Worth area.",
+      "image": "/images/locations/north-richland-hills-content.avif",
+      "imageAlt": "North Richland Hills welcome sign",
+      "imageCredit": {
+        "author": "Smarty9108",
+        "authorUrl": "https://commons.wikimedia.org/wiki/User:Smarty9108",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:NRH_sign.png",
+        "sourceName": "Wikimedia Commons",
+        "modified": "resized"
+      },
       "imagePosition": "left"
     },
     {
@@ -57,7 +74,7 @@
         { "icon": "share", "title": "Social Media Marketing", "description": "Engage your audience and build your brand on Facebook, Instagram, LinkedIn, and more with strategic content and management.", "href": "/solutions/foundational/social-media-management" },
         { "icon": "dollar", "title": "Pay-Per-Click Advertising", "description": "Get immediate results with targeted Google Ads and social media advertising campaigns that maximize your exposure.", "href": "/solutions/lead-gen/pay-per-click" },
         { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in North Richland Hills.", "href": "/solutions/foundational/google-business-profile" },
-        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "Full-motion ads on indoor screens in popular restaurants, gyms, and shops across the Mid-Cities.", "href": "/indoor-billboards/screen-advertising" },
+        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "High-impact advertising in premium indoor locations across the Dallas–Fort Worth metro.", "href": "/indoor-billboards/screen-advertising" },
         { "icon": "megaphone", "title": "Display & Geofencing", "description": "Location-based display advertising that targets customers where they spend time.", "href": "/solutions/branding-awareness/display-geofencing" }
       ]
     },
@@ -92,8 +109,7 @@
       "title": "Common Questions About Our Services",
       "description": "Get answers to the most common questions North Richland Hills businesses ask us.",
       "faqs": [
-        { "question": "Do you serve businesses in North Richland Hills?", "answer": "Absolutely. NRH is right next door to our Bedford home base. We help North Richland Hills businesses with indoor billboard advertising, websites, social media, Google Business Profile, and PPC." },
-        { "question": "Do you only work with businesses in North Richland Hills?", "answer": "While we specialize in serving North Richland Hills businesses, we work with clients throughout the Mid-Cities and the greater Dallas–Fort Worth area." },
+        { "question": "Do you only work with businesses in North Richland Hills?", "answer": "While we specialize in serving North Richland Hills businesses, we work with clients throughout the Dallas–Fort Worth metro area and beyond." },
         { "question": "What types of businesses do you work with?", "answer": "We work with businesses of all sizes and industries, from local shops and restaurants to professional services and e-commerce stores." },
         { "question": "How much do your services cost?", "answer": "Every business has different needs and budgets. We offer flexible packages and custom solutions. <a class='underline font-bold' href='/contact-us'>Contact us</a> for a free consultation and personalized quote." },
         { "question": "Do I need to sign a long-term contract?", "answer": "We offer both project-based work and ongoing monthly services. Many clients start with a project and then continue with monthly marketing support." },
@@ -104,7 +120,7 @@
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our <strong>network</strong> spans the Mid-Cities' most popular neighborhoods and venues",
+      "description": "Our network spans across Dallas–Fort Worth's most popular neighborhoods and venues",
       "overlayTitle": "Serving North Richland Hills and Surrounding Areas",
       "variant": "overlay-titled",
       "locations": [

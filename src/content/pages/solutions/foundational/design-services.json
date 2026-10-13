@@ -139,12 +139,12 @@
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our <strong>network</strong> spans {city} and the Mid-Cities' most popular neighborhoods and venues",
+      "description": "Our network spans across {city}'s most popular neighborhoods and venues",
       "variant": "overlay-titled",
       "locations": [
         { "name": "Bedford", "href": "/locations/bedford", "description": "Central Mid-Cities" },
-        { "name": "Southlake", "href": "/locations/southlake", "description": "Northeast Tarrant County" },
         { "name": "North Richland Hills", "href": "/locations/north-richland-hills", "description": "West Mid-Cities" },
+        { "name": "Southlake", "href": "/locations/southlake", "description": "Northeast Tarrant County" },
         { "name": "Colleyville", "href": "/locations/colleyville", "description": "North Mid-Cities" }
       ]
     },

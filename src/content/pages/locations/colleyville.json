@@ -1,27 +1,44 @@
 {
-  "title": "Colleyville TX Indoor Billboards & Digital Marketing | Lil' B's",
-  "description": "Lil' B's helps Colleyville, TX businesses get seen with indoor digital billboards, PPC, social media, SEO, and website design that keep brands top of mind.",
-  "keywords": "indoor billboards Colleyville TX, digital marketing Colleyville, Colleyville advertising, Colleyville marketing services, social media management Colleyville, website design Colleyville TX, PPC advertising Colleyville, local marketing Colleyville Texas",
+  "title": "Colleyville TX Digital Signage & Marketing | {business}",
+  "description": "We connect businesses in Colleyville TX through digital signage, PPC, social media, SEO, and website design to keep brands visible and top of mind.",
+  "keywords": "marketing agency Colleyville TX, digital marketing Colleyville, Colleyville marketing services, social media management Colleyville, website design Colleyville, SEO Colleyville, PPC advertising Colleyville, local marketing Colleyville Texas",
   "location": "Colleyville",
-  "city": "Colleyville",
   "sections": [
     {
       "type": "hero",
-      "badge": "Grow in Your Community",
-      "title": "Indoor Billboards & Digital Marketing in Colleyville, TX",
-      "description": "Helping Colleyville businesses get noticed, on screens around town and online",
+      "badge": "Premium Marketing Solutions",
+      "title": "Local Advertising and Digital Marketing Pros in Colleyville, TX",
+      "description": "Helping Colleyville Businesses Get Noticed, On Screens and Online",
       "buttonText": "Contact Our Advertising Experts",
       "buttonHref": "/contact-us",
-      "image": "/images/venue-partner-content.avif",
-      "imageAlt": "Indoor digital billboard in a Colleyville area venue"
+      "image": "/images/locations/colleyville-hero.avif",
+      "imageAlt": "Colleyville City Hall in Colleyville, Texas",
+      "imageCredit": {
+        "author": "Iheartdfw at English Wikipedia",
+        "authorUrl": "https://en.wikipedia.org/wiki/User:Iheartdfw",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colleyville_City_Hall-July_2018.jpeg",
+        "sourceName": "Wikimedia Commons",
+        "modified": "resized"
+      }
     },
     {
       "type": "content",
       "variant": "dark",
       "title": "Your Local Marketing Partner in Colleyville",
-      "description": "Colleyville businesses thrive on loyal, local customers, and that's exactly who our indoor digital billboards reach. From restaurants and boutiques along Colleyville Boulevard to service businesses across town, we help Colleyville brands stay top of mind on screens and online.",
-      "image": "/images/venue-partner-content.avif",
-      "imageAlt": "Colleyville local advertising partner",
+      "description": "We're a full-service digital marketing agency dedicated to helping Colleyville businesses succeed online. Whether you need a new website, social media management, or advertising campaigns, we provide personalized strategies that deliver real results. We understand the local market and know what it takes to stand out in Colleyville and the greater Dallas–Fort Worth area.",
+      "image": "/images/locations/colleyville-content.avif",
+      "imageAlt": "The historic Bidault House in Colleyville, Texas",
+      "imageCredit": {
+        "author": "Renelibrary",
+        "authorUrl": "https://commons.wikimedia.org/wiki/User:Renelibrary",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bidault_House_Colleyvile_(1_of_1).jpg",
+        "sourceName": "Wikimedia Commons",
+        "modified": "resized"
+      },
       "imagePosition": "left"
     },
     {
@@ -57,7 +74,7 @@
         { "icon": "share", "title": "Social Media Marketing", "description": "Engage your audience and build your brand on Facebook, Instagram, LinkedIn, and more with strategic content and management.", "href": "/solutions/foundational/social-media-management" },
         { "icon": "dollar", "title": "Pay-Per-Click Advertising", "description": "Get immediate results with targeted Google Ads and social media advertising campaigns that maximize your exposure.", "href": "/solutions/lead-gen/pay-per-click" },
         { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in Colleyville.", "href": "/solutions/foundational/google-business-profile" },
-        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "Full-motion ads on indoor screens in popular restaurants, gyms, and shops across the Mid-Cities.", "href": "/indoor-billboards/screen-advertising" },
+        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "High-impact advertising in premium indoor locations across the Dallas–Fort Worth metro.", "href": "/indoor-billboards/screen-advertising" },
         { "icon": "megaphone", "title": "Display & Geofencing", "description": "Location-based display advertising that targets customers where they spend time.", "href": "/solutions/branding-awareness/display-geofencing" }
       ]
     },
@@ -92,8 +109,7 @@
       "title": "Common Questions About Our Services",
       "description": "Get answers to the most common questions Colleyville businesses ask us.",
       "faqs": [
-        { "question": "Can a Colleyville business host one of your screens?", "answer": "Yes! Host partners get an indoor digital screen installed, a full-screen ad that plays in their own location, and their ads shown at other nearby non-competing hosts. <a class='underline font-bold' href='/indoor-billboards/become-a-venue-partner'>Learn about becoming a host partner</a>." },
-        { "question": "Do you only work with businesses in Colleyville?", "answer": "While we specialize in serving Colleyville businesses, we work with clients throughout the Mid-Cities and the greater Dallas–Fort Worth area." },
+        { "question": "Do you only work with businesses in Colleyville?", "answer": "While we specialize in serving Colleyville businesses, we work with clients throughout the Dallas–Fort Worth metro area and beyond." },
         { "question": "What types of businesses do you work with?", "answer": "We work with businesses of all sizes and industries, from local shops and restaurants to professional services and e-commerce stores." },
         { "question": "How much do your services cost?", "answer": "Every business has different needs and budgets. We offer flexible packages and custom solutions. <a class='underline font-bold' href='/contact-us'>Contact us</a> for a free consultation and personalized quote." },
         { "question": "Do I need to sign a long-term contract?", "answer": "We offer both project-based work and ongoing monthly services. Many clients start with a project and then continue with monthly marketing support." },
@@ -104,7 +120,7 @@
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our <strong>network</strong> spans the Mid-Cities' most popular neighborhoods and venues",
+      "description": "Our network spans across Dallas–Fort Worth's most popular neighborhoods and venues",
       "overlayTitle": "Serving Colleyville and Surrounding Areas",
       "variant": "overlay-titled",
       "locations": [

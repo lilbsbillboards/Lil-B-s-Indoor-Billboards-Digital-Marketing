@@ -1,6 +1,7 @@
 ---
 import { getLocationText } from "@/config/site"
 import Breadcrumbs from "@/components/Breadcrumbs.astro"
+import ImageCredit, { type ImageCreditData } from "@/components/ImageCredit.astro"
 
 interface Props {
   badge?: string
@@ -10,6 +11,8 @@ interface Props {
   imageAlt?: string
   /** CSS object-position for the hero image crop, e.g. "center top". Defaults to center. */
   imagePosition?: string
+  /** Attribution for third-party photos (e.g. Creative Commons). */
+  imageCredit?: ImageCreditData
   buttonText?: string
   buttonHref?: string
   /** legacy aliases */
@@ -26,6 +29,7 @@ const {
   image,
   imageAlt = "Hero image",
   imagePosition,
+  imageCredit,
   buttonText,
   buttonHref = "/contact-us",
   ctaText,
@@ -108,6 +112,8 @@ const { head, tail } = splitTitle(processedTitle)
         )}
       </div>
     </div>
+
+    <ImageCredit credit={imageCredit} />
 </section>
 
 <style>
