@@ -189,6 +189,23 @@ a.underline:focus-visible {
   border-radius: 2px;
 }
 
+/* Smart grid (src/lib/smartGrid.ts) — cards in short rows stretch to fill the
+   width. Cap their image header at the 3-up card height so a wide card doesn't
+   tower over the row above it. Unlayered so it beats the components' scoped
+   aspect-ratio. */
+@media (min-width: 768px) and (max-width: 1023.98px) {
+  .smart-grid-span-md .sb-card-media {
+    aspect-ratio: auto;
+    height: 260px;
+  }
+}
+@media (min-width: 1024px) {
+  .smart-grid-wide .sb-card-media {
+    aspect-ratio: auto;
+    height: 245px;
+  }
+}
+
 /* Brand color utilities with opacity support */
 @layer utilities {
   /* Background colors */

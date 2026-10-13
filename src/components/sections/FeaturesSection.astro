@@ -1,5 +1,6 @@
 ---
 import { siteConfig } from "@/config/site"
+import { smartGrid } from "@/lib/smartGrid"
 import {
   Monitor, Share2, Globe, Target, Tv, Megaphone, DollarSign, Palette,
   Users, MessageSquare, Rocket, Settings, Wrench, Award, Clock, MapPin,
@@ -28,11 +29,9 @@ const processedTitle = getLocationText(title)
 const processedDescription = description ? getLocationText(description) : undefined
 const processedBadge = badge ? getLocationText(badge) : undefined
 
-const gridCols: Record<number, string> = {
-  2: "md:grid-cols-2",
-  3: "md:grid-cols-2 lg:grid-cols-3",
-  4: "md:grid-cols-2 lg:grid-cols-4"
-}
+// Smart grid: `columns` is the max per row; rows always fill the full width
+// (e.g. 5 features at 3 columns → 3 + 2)
+const grid = smartGrid(features.length, columns)
 
 const iconComponents: Record<string, any> = {
   monitor: Monitor, share: Share2, globe: Globe, target: Target,
@@ -67,12 +66,12 @@ const { head, tail } = splitTitle(processedTitle)
       {processedDescription && <p class="text-lg md:text-xl text-gray-600 leading-relaxed" set:html={processedDescription} />}
     </div>
 
-    <div class={`grid gap-6 ${gridCols[columns]}`}>
+    <div class={`grid gap-6 ${grid.container}`}>
       {features.map((feature, i) => {
         const IconComponent = feature.icon ? iconComponents[feature.icon] : null
         if (variant === "minimal") {
           return (
-            <div class="animate-fade-up h-full" style={`animation-delay: ${i * 100}ms`}>
+            <div class={`animate-fade-up h-full ${grid.item(i)}`} style={`animation-delay: ${i * 100}ms`}>
               <article class="sb-card sb-card--minimal group h-full flex flex-col">
                 <div class="sb-card-header--minimal"></div>
                 <div class="sb-card-icon sb-card-icon--minimal">
@@ -95,7 +94,7 @@ const { head, tail } = splitTitle(processedTitle)
           )
         }
         return (
-          <div class="animate-fade-up h-full" style={`animation-delay: ${i * 100}ms`}>
+          <div class={`animate-fade-up h-full ${grid.item(i)}`} style={`animation-delay: ${i * 100}ms`}>
             <article class:list={["sb-card group h-full flex flex-col", !feature.image && "sb-card--minimal"]}>
               {feature.image ? (
                 <>
