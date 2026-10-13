@@ -1,14 +1,14 @@
 {
   "title": "Colleyville TX Digital Signage & Marketing | {business}",
-  "description": "We connect businesses in Colleyville TX through digital signage, PPC, social media, SEO, and website design to keep brands visible and top of mind.",
-  "keywords": "marketing agency Colleyville TX, digital marketing Colleyville, Colleyville marketing services, social media management Colleyville, website design Colleyville, SEO Colleyville, PPC advertising Colleyville, local marketing Colleyville Texas",
+  "description": "Indoor billboards and digital marketing for Colleyville businesses. Reach customers along Colleyville Boulevard with screens, PPC, social media, SEO, and websites from a nearby local team.",
+  "keywords": "Colleyville TX advertising, indoor billboards Colleyville, Colleyville marketing agency, digital signage Colleyville TX, Colleyville Boulevard advertising, website design Colleyville, PPC advertising Colleyville, social media management Colleyville, local marketing Colleyville Texas",
   "location": "Colleyville",
   "sections": [
     {
       "type": "hero",
       "badge": "Premium Marketing Solutions",
       "title": "Local Advertising and Digital Marketing Pros in Colleyville, TX",
-      "description": "Helping Colleyville Businesses Get Noticed, On Screens and Online",
+      "description": "Helping Colleyville businesses get noticed along Colleyville Boulevard and beyond",
       "buttonText": "Contact Our Advertising Experts",
       "buttonHref": "/contact-us",
       "image": "/images/locations/colleyville-hero.avif",
@@ -26,8 +26,8 @@
     {
       "type": "content",
       "variant": "dark",
-      "title": "Your Local Marketing Partner in Colleyville",
-      "description": "We're a full-service digital marketing agency dedicated to helping Colleyville businesses succeed online. Whether you need a new website, social media management, or advertising campaigns, we provide personalized strategies that deliver real results. We understand the local market and know what it takes to stand out in Colleyville and the greater Dallas–Fort Worth area.",
+      "title": "Local Marketing for Colleyville",
+      "description": "Colleyville is a close-knit community where word of mouth and familiar faces matter. Our indoor digital billboards already run on Colleyville Boulevard at host partners like Honey Teriyaki and D1 Training Colleyville, putting local brands in front of residents during their everyday routines. Add a professional website, an active social presence, and targeted search ads, and your Colleyville business stays top of mind everywhere customers look.",
       "image": "/images/locations/colleyville-content.avif",
       "imageAlt": "The historic Bidault House in Colleyville, Texas",
       "imageCredit": {
@@ -44,83 +44,83 @@
     {
       "type": "valueCards",
       "badge": "Why Colleyville",
-      "title": "Digital Marketing Experts Near You Serving Colleyville",
-      "description": "Looking to grow your business in Colleyville? Our local digital marketing agency specializes in helping businesses stand out through targeted strategies that drive results.",
+      "title": "Stand Out in Colleyville",
+      "description": "Colleyville customers support local businesses they know and trust. Here's how we help you earn that trust.",
       "variant": "overlay",
       "cards": [
-        { "icon": "pin", "title": "Increased Foot Traffic", "description": "Drive more visitors to your storefronts through indoor digital signage and targeted local promotions.", "image": "/images/local-marketing-experts.avif" },
-        { "icon": "award", "title": "Higher Brand Visibility", "description": "Get seen in high-traffic venues and across digital platforms with consistent, strategic messaging.", "image": "/images/community-advertising.avif" },
-        { "icon": "share", "title": "Stronger Online Presence", "description": "Strengthen your digital footprint with professionally managed social media profiles.", "image": "/images/social-media-creative.avif" },
-        { "icon": "target", "title": "More Qualified Leads", "description": "Attract high-intent customers actively searching for your products or services.", "image": "/images/keyword.avif" },
-        { "icon": "google", "title": "Enhanced Credibility", "description": "Optimize your Google Business Profile to boost customer confidence and drive actions.", "image": "/images/management.avif" },
-        { "icon": "trending", "title": "Better Local Rankings", "description": "Dominate local search with optimized GBP management and location-focused content.", "image": "/images/track-record.avif" }
+        { "icon": "pin", "title": "Increased Foot Traffic", "description": "Screens along Colleyville Boulevard remind residents to stop in on their next trip.", "image": "/images/local-marketing-experts.avif" },
+        { "icon": "award", "title": "Higher Brand Visibility", "description": "Become a familiar name with repeated full-motion ads in the places Colleyville families visit.", "image": "/images/community-advertising.avif" },
+        { "icon": "share", "title": "Stronger Online Presence", "description": "Professional social media that shows the people and personality behind your Colleyville business.", "image": "/images/social-media-creative.avif" },
+        { "icon": "target", "title": "More Qualified Leads", "description": "Search campaigns that reach Colleyville, Grapevine, and Hurst customers ready to take action.", "image": "/images/keyword.avif" },
+        { "icon": "google", "title": "Enhanced Credibility", "description": "Reviews, photos, and accurate details on Google help Colleyville customers choose you with confidence.", "image": "/images/management.avif" },
+        { "icon": "trending", "title": "Better Local Rankings", "description": "Local SEO that helps you appear in Colleyville map results and \"near me\" searches.", "image": "/images/track-record.avif" }
       ]
     },
     {
       "type": "cta",
       "variant": "card",
       "title": "Ready to Grow Your Colleyville Business?",
-      "description": "Whether you're a startup or an established business, we have the marketing solutions to help you reach more customers and increase sales.",
+      "description": "From restaurants and fitness studios to boutiques and professional offices along Colleyville Boulevard, we'll build marketing that reflects your quality.",
       "buttonText": "Schedule a Free Consultation",
       "buttonHref": "/contact-us"
     },
     {
       "type": "features",
       "title": "Marketing Services for Colleyville Businesses",
-      "description": "Comprehensive digital marketing solutions tailored to your business needs.",
+      "description": "Complete marketing support for Colleyville's local businesses.",
       "columns": 3,
       "features": [
-        { "icon": "globe", "title": "Website Design & Development", "description": "Custom websites built to attract customers and drive conversions. Mobile-friendly, fast, and optimized for search engines.", "href": "/solutions/foundational/website-design" },
-        { "icon": "share", "title": "Social Media Marketing", "description": "Engage your audience and build your brand on Facebook, Instagram, LinkedIn, and more with strategic content and management.", "href": "/solutions/foundational/social-media-management" },
-        { "icon": "dollar", "title": "Pay-Per-Click Advertising", "description": "Get immediate results with targeted Google Ads and social media advertising campaigns that maximize your exposure.", "href": "/solutions/lead-gen/pay-per-click" },
-        { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in Colleyville.", "href": "/solutions/foundational/google-business-profile" },
-        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "High-impact advertising in premium indoor locations across the Dallas–Fort Worth metro.", "href": "/indoor-billboards/screen-advertising" },
-        { "icon": "megaphone", "title": "Display & Geofencing", "description": "Location-based display advertising that targets customers where they spend time.", "href": "/solutions/branding-awareness/display-geofencing" }
+        { "icon": "globe", "title": "Website Design & Development", "description": "Elegant, easy-to-use websites that represent your Colleyville business well on any device.", "href": "/solutions/foundational/website-design" },
+        { "icon": "share", "title": "Social Media Marketing", "description": "Thoughtful content that connects with Colleyville's community-minded audience.", "href": "/solutions/foundational/social-media-management" },
+        { "icon": "dollar", "title": "Pay-Per-Click Advertising", "description": "Paid search and social ads targeted to Colleyville and neighboring communities.", "href": "/solutions/lead-gen/pay-per-click" },
+        { "icon": "target", "title": "SEO & Local Search", "description": "Optimize your site and Google profile to rank for the searches Colleyville customers make.", "href": "/solutions/foundational/google-business-profile" },
+        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "Full-motion ads on screens at Colleyville host partners like Honey Teriyaki and D1 Training.", "href": "/indoor-billboards/screen-advertising" },
+        { "icon": "megaphone", "title": "Display & Geofencing", "description": "Reach Colleyville customers on their phones around the shopping centers and venues you choose.", "href": "/solutions/branding-awareness/display-geofencing" }
       ]
     },
     {
       "type": "valueCards",
       "title": "How We Work With Colleyville Businesses",
-      "description": "Our proven process ensures you get results without the hassle.",
+      "description": "Our process keeps things easy for Colleyville business owners.",
       "variant": "cards",
       "cards": [
-        { "icon": "message", "title": "Step 1: Discovery Call", "description": "We start with a free consultation to understand your business, goals, and challenges.", "image": "/images/discovery-call.avif" },
-        { "icon": "target", "title": "Step 2: Custom Strategy", "description": "We create a tailored marketing plan designed specifically for your business and budget.", "image": "/images/custom-strategy.avif" },
-        { "icon": "rocket", "title": "Step 3: Execution & Launch", "description": "Our team handles all the work, from design and content to setup and launch.", "image": "/images/campaign-launch.avif" },
-        { "icon": "wrench", "title": "Step 4: Ongoing Optimization", "description": "We monitor performance, provide regular reports, and continuously improve your results.", "image": "/images/report-optimization.avif" }
+        { "icon": "message", "title": "Step 1: Discovery Call", "description": "We start by learning about your Colleyville business, your customers, and your goals.", "image": "/images/discovery-call.avif" },
+        { "icon": "target", "title": "Step 2: Custom Strategy", "description": "We recommend the right mix of screens and digital channels for your market and budget.", "image": "/images/custom-strategy.avif" },
+        { "icon": "rocket", "title": "Step 3: Execution & Launch", "description": "We produce your creative, set up every campaign, and handle the launch.", "image": "/images/campaign-launch.avif" },
+        { "icon": "wrench", "title": "Step 4: Ongoing Optimization", "description": "We monitor results, share updates, and keep improving your campaigns over time.", "image": "/images/report-optimization.avif" }
       ]
     },
     {
       "type": "features",
       "title": "Why Colleyville Businesses Choose Us",
-      "description": "We're more than just a marketing agency, we're your partner in growth.",
+      "description": "Colleyville businesses choose us for local expertise and personal service.",
       "columns": 3,
       "features": [
-        { "icon": "pin", "title": "Local Expertise", "description": "We understand the Colleyville market and know what it takes to reach local customers effectively." },
-        { "icon": "trending", "title": "Proven Results", "description": "Our strategies are backed by data and designed to deliver measurable growth for your business." },
-        { "icon": "dollar", "title": "Transparent Pricing", "description": "No hidden fees or surprises. We provide clear pricing and work within your budget." },
-        { "icon": "users", "title": "Personalized Service", "description": "You're not just a number. We provide dedicated support and treat your business like our own." },
-        { "icon": "settings", "title": "Full-Service Solutions", "description": "From websites to social media to advertising, we handle all your marketing needs under one roof." },
-        { "icon": "clock", "title": "Fast Response Times", "description": "Questions? Updates? We're here when you need us with quick, friendly support." }
+        { "icon": "pin", "title": "Close to Home", "description": "We're based in neighboring Bedford and know the Colleyville market well." },
+        { "icon": "trending", "title": "Results You Can See", "description": "Straightforward reporting that ties your marketing to real outcomes." },
+        { "icon": "dollar", "title": "Honest Pricing", "description": "Clear proposals and no hidden fees." },
+        { "icon": "users", "title": "Personal Attention", "description": "A dedicated contact who understands your brand and your customers." },
+        { "icon": "settings", "title": "Everything in One Place", "description": "Screens, web, social, search, and display handled by one team." },
+        { "icon": "clock", "title": "Responsive Service", "description": "Quick replies and fast ad updates whenever you need them." }
       ]
     },
     {
       "type": "faq",
       "title": "Common Questions About Our Services",
-      "description": "Get answers to the most common questions Colleyville businesses ask us.",
+      "description": "Questions Colleyville business owners ask us most.",
       "faqs": [
-        { "question": "Do you only work with businesses in Colleyville?", "answer": "While we specialize in serving Colleyville businesses, we work with clients throughout the Dallas–Fort Worth metro area and beyond." },
-        { "question": "What types of businesses do you work with?", "answer": "We work with businesses of all sizes and industries, from local shops and restaurants to professional services and e-commerce stores." },
-        { "question": "How much do your services cost?", "answer": "Every business has different needs and budgets. We offer flexible packages and custom solutions. <a class='underline font-bold' href='/contact-us'>Contact us</a> for a free consultation and personalized quote." },
-        { "question": "Do I need to sign a long-term contract?", "answer": "We offer both project-based work and ongoing monthly services. Many clients start with a project and then continue with monthly marketing support." },
-        { "question": "How quickly can you get started?", "answer": "We can typically start within 1-2 weeks of our initial consultation, depending on the scope of work and our current schedule." },
-        { "question": "Will I have a dedicated contact person?", "answer": "Yes! You'll work directly with our team and have a main point of contact who knows your business and goals." }
+        { "question": "Where are your screens in Colleyville?", "answer": "You'll find our screens at Colleyville Boulevard host partners including Honey Teriyaki and D1 Training Colleyville, and your ad can also run across our wider Mid-Cities network. <a class='underline font-bold' href='/indoor-billboards/locations'>View the map</a>." },
+        { "question": "Will screen ads fit my brand's image?", "answer": "Yes. We design custom full-motion ads that match your brand, and we send everything for your approval before it goes live." },
+        { "question": "Do you work with businesses outside Colleyville?", "answer": "Yes. We also serve Bedford, Grapevine, Hurst, North Richland Hills, Southlake, and the greater Dallas–Fort Worth area." },
+        { "question": "What kinds of businesses do you work with in Colleyville?", "answer": "Restaurants, fitness and wellness studios, salons, real estate and financial offices, home services, and retail shops." },
+        { "question": "How much do your services cost?", "answer": "Every plan is customized. <a class='underline font-bold' href='/contact-us'>Get in touch</a> for a free consultation and quote." },
+        { "question": "Will I have one point of contact?", "answer": "Yes. You'll work with a dedicated contact who knows your Colleyville business and goals." }
       ]
     },
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our network spans across Dallas–Fort Worth's most popular neighborhoods and venues",
+      "description": "Our network connects Colleyville with nearby Mid-Cities communities",
       "overlayTitle": "Serving Colleyville and Surrounding Areas",
       "variant": "overlay-titled",
       "locations": [
@@ -133,7 +133,7 @@
       "type": "cta",
       "variant": "banner",
       "title": "Ready to grow your Colleyville business?",
-      "description": "Contact us today to learn how we can help.",
+      "description": "Let's get your brand seen across Colleyville.",
       "buttonText": "Get In Touch",
       "buttonHref": "/contact-us"
     }

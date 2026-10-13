@@ -1,14 +1,14 @@
 {
   "title": "Bedford TX Digital Signage & Marketing | {business}",
-  "description": "We connect businesses in Bedford TX through digital signage, PPC, social media, SEO, and website design to keep brands visible and top of mind.",
-  "keywords": "marketing agency Bedford TX, digital marketing Bedford, Bedford marketing services, social media management Bedford, website design Bedford, SEO Bedford, PPC advertising Bedford, local marketing Bedford Texas",
+  "description": "Bedford's hometown indoor billboard and digital marketing team. Screens along Harwood Road and Airport Freeway, plus PPC, social media, SEO, and websites for Bedford businesses.",
+  "keywords": "Bedford TX advertising, indoor billboards Bedford, digital signage Bedford TX, Bedford marketing agency, Harwood Road advertising, HEB area marketing, website design Bedford TX, PPC advertising Bedford, social media management Bedford",
   "location": "Bedford",
   "sections": [
     {
       "type": "hero",
       "badge": "Premium Marketing Solutions",
       "title": "Local Advertising and Digital Marketing Pros in Bedford, TX",
-      "description": "Helping Bedford Businesses Get Noticed, On Screens and Online",
+      "description": "Bedford's hometown team for indoor billboards and digital marketing, on screens around town and online",
       "buttonText": "Contact Our Advertising Experts",
       "buttonHref": "/contact-us",
       "image": "/images/locations/bedford-hero.avif",
@@ -26,8 +26,8 @@
     {
       "type": "content",
       "variant": "dark",
-      "title": "Your Local Marketing Partner in Bedford",
-      "description": "We're a full-service digital marketing agency dedicated to helping Bedford businesses succeed online. Whether you need a new website, social media management, or advertising campaigns, we provide personalized strategies that deliver real results. We understand the local market and know what it takes to stand out in Bedford and the greater Dallas–Fort Worth area.",
+      "title": "Bedford Is Our Home Base",
+      "description": "We're based right here in Bedford, and our indoor digital billboards are already running in neighborhood favorites like Pokey O's Cookies & Ice Cream, Mac's Barbershop, Taco Burger, WOW Donuts, and Double Five Mid Cities Jiu Jitsu. From the Harwood Road corridor to Central Drive and Airport Freeway, we put your business in front of Bedford customers while they wait, eat, and work out, then help them find you online with websites, social media, and search ads.",
       "image": "/images/locations/bedford-content.avif",
       "imageAlt": "Children statues in front of the Old Bedford School in Bedford, Texas",
       "imageCredit": {
@@ -44,83 +44,83 @@
     {
       "type": "valueCards",
       "badge": "Why Bedford",
-      "title": "Digital Marketing Experts Near You Serving Bedford",
-      "description": "Looking to grow your business in Bedford? Our local digital marketing agency specializes in helping businesses stand out through targeted strategies that drive results.",
+      "title": "What Bedford Businesses Get With Us",
+      "description": "Local marketing built around how Bedford residents shop, dine, and search.",
       "variant": "overlay",
       "cards": [
-        { "icon": "pin", "title": "Increased Foot Traffic", "description": "Drive more visitors to your storefronts through indoor digital signage and targeted local promotions.", "image": "/images/local-marketing-experts.avif" },
-        { "icon": "award", "title": "Higher Brand Visibility", "description": "Get seen in high-traffic venues and across digital platforms with consistent, strategic messaging.", "image": "/images/community-advertising.avif" },
-        { "icon": "share", "title": "Stronger Online Presence", "description": "Strengthen your digital footprint with professionally managed social media profiles.", "image": "/images/social-media-creative.avif" },
-        { "icon": "target", "title": "More Qualified Leads", "description": "Attract high-intent customers actively searching for your products or services.", "image": "/images/keyword.avif" },
-        { "icon": "google", "title": "Enhanced Credibility", "description": "Optimize your Google Business Profile to boost customer confidence and drive actions.", "image": "/images/management.avif" },
-        { "icon": "trending", "title": "Better Local Rankings", "description": "Dominate local search with optimized GBP management and location-focused content.", "image": "/images/track-record.avif" }
+        { "icon": "pin", "title": "Increased Foot Traffic", "description": "Get noticed by shoppers along Harwood Road, Central Drive, and Airport Freeway with screens in the places Bedford residents visit every week.", "image": "/images/local-marketing-experts.avif" },
+        { "icon": "award", "title": "Higher Brand Visibility", "description": "Your ad plays again and again in busy Bedford venues, from dessert shops and barbershops to gyms and wellness clinics.", "image": "/images/community-advertising.avif" },
+        { "icon": "share", "title": "Stronger Online Presence", "description": "Keep your Facebook and Instagram active so Bedford neighbors see you between visits.", "image": "/images/social-media-creative.avif" },
+        { "icon": "target", "title": "More Qualified Leads", "description": "Reach people searching for your services in Bedford, Hurst, and Euless when they're ready to buy.", "image": "/images/keyword.avif" },
+        { "icon": "google", "title": "Enhanced Credibility", "description": "A complete, well-reviewed Google Business Profile helps Bedford customers choose you over the shop down the street.", "image": "/images/management.avif" },
+        { "icon": "trending", "title": "Better Local Rankings", "description": "Show up in the Google map pack for \"near me\" searches across Bedford and the HEB area.", "image": "/images/track-record.avif" }
       ]
     },
     {
       "type": "cta",
       "variant": "card",
       "title": "Ready to Grow Your Bedford Business?",
-      "description": "Whether you're a startup or an established business, we have the marketing solutions to help you reach more customers and increase sales.",
+      "description": "Whether you just opened on Harwood Road or you've served Bedford for years, we have local marketing that fits your goals and your budget.",
       "buttonText": "Schedule a Free Consultation",
       "buttonHref": "/contact-us"
     },
     {
       "type": "features",
       "title": "Marketing Services for Bedford Businesses",
-      "description": "Comprehensive digital marketing solutions tailored to your business needs.",
+      "description": "Everything a Bedford business needs to get seen, from the screen on the wall to the top of Google.",
       "columns": 3,
       "features": [
-        { "icon": "globe", "title": "Website Design & Development", "description": "Custom websites built to attract customers and drive conversions. Mobile-friendly, fast, and optimized for search engines.", "href": "/solutions/foundational/website-design" },
-        { "icon": "share", "title": "Social Media Marketing", "description": "Engage your audience and build your brand on Facebook, Instagram, LinkedIn, and more with strategic content and management.", "href": "/solutions/foundational/social-media-management" },
-        { "icon": "dollar", "title": "Pay-Per-Click Advertising", "description": "Get immediate results with targeted Google Ads and social media advertising campaigns that maximize your exposure.", "href": "/solutions/lead-gen/pay-per-click" },
-        { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in Bedford.", "href": "/solutions/foundational/google-business-profile" },
-        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "High-impact advertising in premium indoor locations across the Dallas–Fort Worth metro.", "href": "/indoor-billboards/screen-advertising" },
-        { "icon": "megaphone", "title": "Display & Geofencing", "description": "Location-based display advertising that targets customers where they spend time.", "href": "/solutions/branding-awareness/display-geofencing" }
+        { "icon": "globe", "title": "Website Design & Development", "description": "Fast, mobile-friendly websites that tell Bedford customers who you are, what you offer, and how to reach you.", "href": "/solutions/foundational/website-design" },
+        { "icon": "share", "title": "Social Media Marketing", "description": "Consistent posts and creative on Facebook, Instagram, and LinkedIn that keep you top of mind with Bedford followers.", "href": "/solutions/foundational/social-media-management" },
+        { "icon": "dollar", "title": "Pay-Per-Click Advertising", "description": "Google Ads and social campaigns targeted to Bedford and the surrounding HEB cities, so your budget reaches local buyers.", "href": "/solutions/lead-gen/pay-per-click" },
+        { "icon": "target", "title": "SEO & Local Search", "description": "Rank for the searches Bedford customers actually make and get more calls, clicks, and direction requests.", "href": "/solutions/foundational/google-business-profile" },
+        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "Full-motion ads on our screens in Bedford venues like Pokey O's, Mac's Barbershop, and Taco Burger.", "href": "/indoor-billboards/screen-advertising" },
+        { "icon": "megaphone", "title": "Display & Geofencing", "description": "Serve display ads to phones around the Bedford locations you choose, including your competitors' parking lots.", "href": "/solutions/branding-awareness/display-geofencing" }
       ]
     },
     {
       "type": "valueCards",
       "title": "How We Work With Bedford Businesses",
-      "description": "Our proven process ensures you get results without the hassle.",
+      "description": "We're local, so getting started is easy.",
       "variant": "cards",
       "cards": [
-        { "icon": "message", "title": "Step 1: Discovery Call", "description": "We start with a free consultation to understand your business, goals, and challenges.", "image": "/images/discovery-call.avif" },
-        { "icon": "target", "title": "Step 2: Custom Strategy", "description": "We create a tailored marketing plan designed specifically for your business and budget.", "image": "/images/custom-strategy.avif" },
-        { "icon": "rocket", "title": "Step 3: Execution & Launch", "description": "Our team handles all the work, from design and content to setup and launch.", "image": "/images/campaign-launch.avif" },
-        { "icon": "wrench", "title": "Step 4: Ongoing Optimization", "description": "We monitor performance, provide regular reports, and continuously improve your results.", "image": "/images/report-optimization.avif" }
+        { "icon": "message", "title": "Step 1: Discovery Call", "description": "We meet with you, often in person since we're right here in Bedford, to learn about your business and goals.", "image": "/images/discovery-call.avif" },
+        { "icon": "target", "title": "Step 2: Custom Strategy", "description": "We map out a plan that mixes screens and digital channels to fit how Bedford customers find businesses like yours.", "image": "/images/custom-strategy.avif" },
+        { "icon": "rocket", "title": "Step 3: Execution & Launch", "description": "We design your ads, build your campaigns, and get your message live on screens and online.", "image": "/images/campaign-launch.avif" },
+        { "icon": "wrench", "title": "Step 4: Ongoing Optimization", "description": "We track results, share regular reports, and adjust as your Bedford business grows.", "image": "/images/report-optimization.avif" }
       ]
     },
     {
       "type": "features",
       "title": "Why Bedford Businesses Choose Us",
-      "description": "We're more than just a marketing agency, we're your partner in growth.",
+      "description": "We live and work in the same community as our clients.",
       "columns": 3,
       "features": [
-        { "icon": "pin", "title": "Local Expertise", "description": "We understand the Bedford market and know what it takes to reach local customers effectively." },
-        { "icon": "trending", "title": "Proven Results", "description": "Our strategies are backed by data and designed to deliver measurable growth for your business." },
-        { "icon": "dollar", "title": "Transparent Pricing", "description": "No hidden fees or surprises. We provide clear pricing and work within your budget." },
-        { "icon": "users", "title": "Personalized Service", "description": "You're not just a number. We provide dedicated support and treat your business like our own." },
-        { "icon": "settings", "title": "Full-Service Solutions", "description": "From websites to social media to advertising, we handle all your marketing needs under one roof." },
-        { "icon": "clock", "title": "Fast Response Times", "description": "Questions? Updates? We're here when you need us with quick, friendly support." }
+        { "icon": "pin", "title": "Hometown Team", "description": "We're based in Bedford, so we know the neighborhoods, the traffic patterns, and the local businesses." },
+        { "icon": "trending", "title": "Measurable Results", "description": "Every campaign comes with clear reporting so you can see what's working." },
+        { "icon": "dollar", "title": "Transparent Pricing", "description": "No hidden fees. We build plans around your budget and explain every cost upfront." },
+        { "icon": "users", "title": "Personal Service", "description": "You'll work with a local point of contact who knows your business by name." },
+        { "icon": "settings", "title": "Screens and Digital in One Place", "description": "Indoor billboards, websites, social media, and ads from one local team." },
+        { "icon": "clock", "title": "Quick Local Support", "description": "Need an ad updated or a question answered? We're just down the road." }
       ]
     },
     {
       "type": "faq",
       "title": "Common Questions About Our Services",
-      "description": "Get answers to the most common questions Bedford businesses ask us.",
+      "description": "Answers to the questions Bedford business owners ask us most.",
       "faqs": [
-        { "question": "Do you only work with businesses in Bedford?", "answer": "While we specialize in serving Bedford businesses, we work with clients throughout the Dallas–Fort Worth metro area and beyond." },
-        { "question": "What types of businesses do you work with?", "answer": "We work with businesses of all sizes and industries, from local shops and restaurants to professional services and e-commerce stores." },
-        { "question": "How much do your services cost?", "answer": "Every business has different needs and budgets. We offer flexible packages and custom solutions. <a class='underline font-bold' href='/contact-us'>Contact us</a> for a free consultation and personalized quote." },
-        { "question": "Do I need to sign a long-term contract?", "answer": "We offer both project-based work and ongoing monthly services. Many clients start with a project and then continue with monthly marketing support." },
-        { "question": "How quickly can you get started?", "answer": "We can typically start within 1-2 weeks of our initial consultation, depending on the scope of work and our current schedule." },
-        { "question": "Will I have a dedicated contact person?", "answer": "Yes! You'll work directly with our team and have a main point of contact who knows your business and goals." }
+        { "question": "Where are your screens in Bedford?", "answer": "Our indoor digital billboards run in Bedford businesses including Pokey O's Cookies & Ice Cream, Mac's Barbershop, Taco Burger, WOW Donuts, Double Five Mid Cities Jiu Jitsu, and Medi-Elite Health and Wellness, plus other host partners across the Mid-Cities. <a class='underline font-bold' href='/indoor-billboards/locations'>See all locations</a>." },
+        { "question": "Are you actually based in Bedford?", "answer": "Yes. We're a local Bedford business, so we can meet in person and support you quickly." },
+        { "question": "Do you only work with businesses in Bedford?", "answer": "No. Bedford is home, but we work with businesses throughout Hurst, Euless, North Richland Hills, Colleyville, Southlake, and the greater Dallas–Fort Worth area." },
+        { "question": "How much do your services cost?", "answer": "It depends on what you need. Screen advertising, websites, and digital campaigns are all priced to fit local budgets. <a class='underline font-bold' href='/contact-us'>Contact us</a> for a free quote." },
+        { "question": "Can my Bedford business host one of your screens?", "answer": "If you have steady foot traffic, you may be a great fit. We install the screen, create your ads, and run them in your location and at nearby non-competing host venues. <a class='underline font-bold' href='/indoor-billboards/become-a-venue-partner'>Become a venue partner</a>." },
+        { "question": "How quickly can we get started?", "answer": "Most Bedford clients are up and running within a couple of weeks of our first meeting." }
       ]
     },
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our network spans across Dallas–Fort Worth's most popular neighborhoods and venues",
+      "description": "Our network reaches customers across Bedford and the neighboring Mid-Cities",
       "overlayTitle": "Serving Bedford and Surrounding Areas",
       "variant": "overlay-titled",
       "locations": [
@@ -133,7 +133,7 @@
       "type": "cta",
       "variant": "banner",
       "title": "Ready to grow your Bedford business?",
-      "description": "Contact us today to learn how we can help.",
+      "description": "Let's talk about putting your brand on screens across Bedford.",
       "buttonText": "Get In Touch",
       "buttonHref": "/contact-us"
     }

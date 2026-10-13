@@ -1,14 +1,14 @@
 {
   "title": "Southlake TX Digital Signage & Marketing | {business}",
-  "description": "We connect businesses in Southlake TX through digital signage, PPC, social media, SEO, and website design to keep brands visible and top of mind.",
-  "keywords": "marketing agency Southlake TX, digital marketing Southlake, Southlake marketing services, social media management Southlake, website design Southlake, SEO Southlake, PPC advertising Southlake, local marketing Southlake Texas",
+  "description": "Indoor billboards and digital marketing for Southlake businesses. Reach shoppers near Southlake Town Square and along Southlake Boulevard with screens, PPC, social media, SEO, and websites.",
+  "keywords": "Southlake TX advertising, indoor billboards Southlake, Southlake marketing agency, digital signage Southlake TX, Southlake Town Square advertising, website design Southlake, PPC advertising Southlake, social media management Southlake",
   "location": "Southlake",
   "sections": [
     {
       "type": "hero",
       "badge": "Premium Marketing Solutions",
       "title": "Local Advertising and Digital Marketing Pros in Southlake, TX",
-      "description": "Helping Southlake Businesses Get Noticed, On Screens and Online",
+      "description": "Helping Southlake businesses stand out, from Town Square to Southlake Boulevard",
       "buttonText": "Contact Our Advertising Experts",
       "buttonHref": "/contact-us",
       "image": "/images/locations/southlake-hero.avif",
@@ -26,8 +26,8 @@
     {
       "type": "content",
       "variant": "dark",
-      "title": "Your Local Marketing Partner in Southlake",
-      "description": "We're a full-service digital marketing agency dedicated to helping Southlake businesses succeed online. Whether you need a new website, social media management, or advertising campaigns, we provide personalized strategies that deliver real results. We understand the local market and know what it takes to stand out in Southlake and the greater Dallas–Fort Worth area.",
+      "title": "Marketing Built for Southlake",
+      "description": "Southlake customers expect quality, and they notice the brands that show up where they spend their time. Our indoor digital billboards run at Southlake host partners like D1 Training Southlake, Parlor Doughnuts, Great Harvest Bread Co., and Texas Muscle Activation, reaching active families between Southlake Town Square, Southlake Boulevard, and State Highway 114. Pair your screen ads with a polished website, social media, and targeted search ads to win customers online too.",
       "image": "/images/locations/southlake-content.avif",
       "imageAlt": "Christmas tree lit up at Southlake Town Square",
       "imageCredit": {
@@ -44,83 +44,83 @@
     {
       "type": "valueCards",
       "badge": "Why Southlake",
-      "title": "Digital Marketing Experts Near You Serving Southlake",
-      "description": "Looking to grow your business in Southlake? Our local digital marketing agency specializes in helping businesses stand out through targeted strategies that drive results.",
+      "title": "Grow Your Brand in Southlake",
+      "description": "Southlake is a competitive market. Here's the edge local marketing gives you.",
       "variant": "overlay",
       "cards": [
-        { "icon": "pin", "title": "Increased Foot Traffic", "description": "Drive more visitors to your storefronts through indoor digital signage and targeted local promotions.", "image": "/images/local-marketing-experts.avif" },
-        { "icon": "award", "title": "Higher Brand Visibility", "description": "Get seen in high-traffic venues and across digital platforms with consistent, strategic messaging.", "image": "/images/community-advertising.avif" },
-        { "icon": "share", "title": "Stronger Online Presence", "description": "Strengthen your digital footprint with professionally managed social media profiles.", "image": "/images/social-media-creative.avif" },
-        { "icon": "target", "title": "More Qualified Leads", "description": "Attract high-intent customers actively searching for your products or services.", "image": "/images/keyword.avif" },
-        { "icon": "google", "title": "Enhanced Credibility", "description": "Optimize your Google Business Profile to boost customer confidence and drive actions.", "image": "/images/management.avif" },
-        { "icon": "trending", "title": "Better Local Rankings", "description": "Dominate local search with optimized GBP management and location-focused content.", "image": "/images/track-record.avif" }
+        { "icon": "pin", "title": "Increased Foot Traffic", "description": "Bring nearby shoppers through your doors with screens in Southlake gyms, bakeries, and specialty shops.", "image": "/images/local-marketing-experts.avif" },
+        { "icon": "award", "title": "Higher Brand Visibility", "description": "Polished, full-motion ads that match the quality Southlake customers expect from the businesses they choose.", "image": "/images/community-advertising.avif" },
+        { "icon": "share", "title": "Stronger Online Presence", "description": "Engaging social content that keeps your brand in front of busy Southlake families on Instagram and Facebook.", "image": "/images/social-media-creative.avif" },
+        { "icon": "target", "title": "More Qualified Leads", "description": "Target high-intent searchers in Southlake and nearby Grapevine, Keller, and Colleyville.", "image": "/images/keyword.avif" },
+        { "icon": "google", "title": "Enhanced Credibility", "description": "Strong reviews and an optimized Google Business Profile build trust with Southlake's discerning customers.", "image": "/images/management.avif" },
+        { "icon": "trending", "title": "Better Local Rankings", "description": "Climb the local results for Southlake searches and stay ahead of competitors near Town Square.", "image": "/images/track-record.avif" }
       ]
     },
     {
       "type": "cta",
       "variant": "card",
       "title": "Ready to Grow Your Southlake Business?",
-      "description": "Whether you're a startup or an established business, we have the marketing solutions to help you reach more customers and increase sales.",
+      "description": "From boutique retail near Town Square to fitness studios and restaurants along Southlake Boulevard, we'll build a plan that gets you noticed.",
       "buttonText": "Schedule a Free Consultation",
       "buttonHref": "/contact-us"
     },
     {
       "type": "features",
       "title": "Marketing Services for Southlake Businesses",
-      "description": "Comprehensive digital marketing solutions tailored to your business needs.",
+      "description": "Full-service marketing for Southlake brands that want to look as good online as they do in person.",
       "columns": 3,
       "features": [
-        { "icon": "globe", "title": "Website Design & Development", "description": "Custom websites built to attract customers and drive conversions. Mobile-friendly, fast, and optimized for search engines.", "href": "/solutions/foundational/website-design" },
-        { "icon": "share", "title": "Social Media Marketing", "description": "Engage your audience and build your brand on Facebook, Instagram, LinkedIn, and more with strategic content and management.", "href": "/solutions/foundational/social-media-management" },
-        { "icon": "dollar", "title": "Pay-Per-Click Advertising", "description": "Get immediate results with targeted Google Ads and social media advertising campaigns that maximize your exposure.", "href": "/solutions/lead-gen/pay-per-click" },
-        { "icon": "target", "title": "SEO & Local Search", "description": "Rank higher in Google search results and attract more local customers searching for your services in Southlake.", "href": "/solutions/foundational/google-business-profile" },
-        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "High-impact advertising in premium indoor locations across the Dallas–Fort Worth metro.", "href": "/indoor-billboards/screen-advertising" },
-        { "icon": "megaphone", "title": "Display & Geofencing", "description": "Location-based display advertising that targets customers where they spend time.", "href": "/solutions/branding-awareness/display-geofencing" }
+        { "icon": "globe", "title": "Website Design & Development", "description": "Clean, high-end websites that reflect your brand and turn Southlake visitors into customers.", "href": "/solutions/foundational/website-design" },
+        { "icon": "share", "title": "Social Media Marketing", "description": "Scroll-stopping content and community engagement for Southlake audiences on the platforms they use most.", "href": "/solutions/foundational/social-media-management" },
+        { "icon": "dollar", "title": "Pay-Per-Click Advertising", "description": "Search and social ads geo-targeted to Southlake so every click comes from your market.", "href": "/solutions/lead-gen/pay-per-click" },
+        { "icon": "target", "title": "SEO & Local Search", "description": "Local SEO that helps you show up when Southlake residents search for what you offer.", "href": "/solutions/foundational/google-business-profile" },
+        { "icon": "monitor", "title": "Indoor Billboard Advertising", "description": "Full-motion ads on screens in Southlake venues such as D1 Training, Parlor Doughnuts, and Great Harvest Bread Co.", "href": "/indoor-billboards/screen-advertising" },
+        { "icon": "megaphone", "title": "Display & Geofencing", "description": "Geofence Southlake Town Square, nearby shopping centers, or competitor locations to reach customers on their phones.", "href": "/solutions/branding-awareness/display-geofencing" }
       ]
     },
     {
       "type": "valueCards",
       "title": "How We Work With Southlake Businesses",
-      "description": "Our proven process ensures you get results without the hassle.",
+      "description": "A simple, hands-on process for Southlake business owners with busy schedules.",
       "variant": "cards",
       "cards": [
-        { "icon": "message", "title": "Step 1: Discovery Call", "description": "We start with a free consultation to understand your business, goals, and challenges.", "image": "/images/discovery-call.avif" },
-        { "icon": "target", "title": "Step 2: Custom Strategy", "description": "We create a tailored marketing plan designed specifically for your business and budget.", "image": "/images/custom-strategy.avif" },
-        { "icon": "rocket", "title": "Step 3: Execution & Launch", "description": "Our team handles all the work, from design and content to setup and launch.", "image": "/images/campaign-launch.avif" },
-        { "icon": "wrench", "title": "Step 4: Ongoing Optimization", "description": "We monitor performance, provide regular reports, and continuously improve your results.", "image": "/images/report-optimization.avif" }
+        { "icon": "message", "title": "Step 1: Discovery Call", "description": "A quick conversation, by phone or in person, about your Southlake business, customers, and goals.", "image": "/images/discovery-call.avif" },
+        { "icon": "target", "title": "Step 2: Custom Strategy", "description": "A plan tailored to the Southlake market that combines screens and digital channels within your budget.", "image": "/images/custom-strategy.avif" },
+        { "icon": "rocket", "title": "Step 3: Execution & Launch", "description": "We handle design, setup, and launch so you can stay focused on running your business.", "image": "/images/campaign-launch.avif" },
+        { "icon": "wrench", "title": "Step 4: Ongoing Optimization", "description": "Regular reporting and refinements to keep your results improving month after month.", "image": "/images/report-optimization.avif" }
       ]
     },
     {
       "type": "features",
       "title": "Why Southlake Businesses Choose Us",
-      "description": "We're more than just a marketing agency, we're your partner in growth.",
+      "description": "Southlake businesses work with us because we make local marketing simple.",
       "columns": 3,
       "features": [
-        { "icon": "pin", "title": "Local Expertise", "description": "We understand the Southlake market and know what it takes to reach local customers effectively." },
-        { "icon": "trending", "title": "Proven Results", "description": "Our strategies are backed by data and designed to deliver measurable growth for your business." },
-        { "icon": "dollar", "title": "Transparent Pricing", "description": "No hidden fees or surprises. We provide clear pricing and work within your budget." },
-        { "icon": "users", "title": "Personalized Service", "description": "You're not just a number. We provide dedicated support and treat your business like our own." },
-        { "icon": "settings", "title": "Full-Service Solutions", "description": "From websites to social media to advertising, we handle all your marketing needs under one roof." },
-        { "icon": "clock", "title": "Fast Response Times", "description": "Questions? Updates? We're here when you need us with quick, friendly support." }
+        { "icon": "pin", "title": "Local Knowledge", "description": "We know the Southlake market, from Town Square shoppers to the families who live nearby." },
+        { "icon": "trending", "title": "Proven Process", "description": "A clear plan, measurable goals, and reporting that shows what your marketing delivers." },
+        { "icon": "dollar", "title": "Transparent Pricing", "description": "Straightforward packages with no surprise fees." },
+        { "icon": "users", "title": "Personalized Service", "description": "One local team that learns your brand and treats your business like our own." },
+        { "icon": "settings", "title": "Full-Service Solutions", "description": "Screens, websites, social media, and ads all managed in one place." },
+        { "icon": "clock", "title": "Responsive Support", "description": "Fast answers and quick ad updates whenever your promotions change." }
       ]
     },
     {
       "type": "faq",
       "title": "Common Questions About Our Services",
-      "description": "Get answers to the most common questions Southlake businesses ask us.",
+      "description": "Answers to questions we hear from Southlake business owners.",
       "faqs": [
-        { "question": "Do you only work with businesses in Southlake?", "answer": "While we specialize in serving Southlake businesses, we work with clients throughout the Dallas–Fort Worth metro area and beyond." },
-        { "question": "What types of businesses do you work with?", "answer": "We work with businesses of all sizes and industries, from local shops and restaurants to professional services and e-commerce stores." },
-        { "question": "How much do your services cost?", "answer": "Every business has different needs and budgets. We offer flexible packages and custom solutions. <a class='underline font-bold' href='/contact-us'>Contact us</a> for a free consultation and personalized quote." },
-        { "question": "Do I need to sign a long-term contract?", "answer": "We offer both project-based work and ongoing monthly services. Many clients start with a project and then continue with monthly marketing support." },
-        { "question": "How quickly can you get started?", "answer": "We can typically start within 1-2 weeks of our initial consultation, depending on the scope of work and our current schedule." },
-        { "question": "Will I have a dedicated contact person?", "answer": "Yes! You'll work directly with our team and have a main point of contact who knows your business and goals." }
+        { "question": "Where can my ad be seen in Southlake?", "answer": "Our Southlake host partners include D1 Training Southlake, Parlor Doughnuts, Great Harvest Bread Co., and Texas Muscle Activation, and your ad can also run across our Mid-Cities network. <a class='underline font-bold' href='/indoor-billboards/locations'>View all locations</a>." },
+        { "question": "Is indoor billboard advertising a good fit for Southlake brands?", "answer": "Yes. Screens reach customers while they're relaxed and engaged, and full-motion ads can't be skipped, which makes them a strong fit for brands that want to stay top of mind." },
+        { "question": "Do you work with businesses outside Southlake?", "answer": "Yes. We serve Southlake along with Grapevine, Keller, Colleyville, Bedford, and the greater Dallas–Fort Worth area." },
+        { "question": "What types of Southlake businesses do you work with?", "answer": "Restaurants, bakeries, fitness studios, salons, retail boutiques, home services, and professional offices." },
+        { "question": "How much does it cost?", "answer": "Plans are built around your goals and budget. <a class='underline font-bold' href='/contact-us'>Reach out</a> for a free consultation and custom quote." },
+        { "question": "Do I need to sign a long-term contract?", "answer": "We offer both project-based work and ongoing monthly services, so you can start with what makes sense for your Southlake business." }
       ]
     },
     {
       "type": "locations",
       "title": "We Put Local Brands on the Map",
-      "description": "Our network spans across Dallas–Fort Worth's most popular neighborhoods and venues",
+      "description": "Our network connects Southlake with neighboring Mid-Cities communities",
       "overlayTitle": "Serving Southlake and Surrounding Areas",
       "variant": "overlay-titled",
       "locations": [
@@ -133,7 +133,7 @@
       "type": "cta",
       "variant": "banner",
       "title": "Ready to grow your Southlake business?",
-      "description": "Contact us today to learn how we can help.",
+      "description": "Let's get your brand in front of Southlake customers.",
       "buttonText": "Get In Touch",
       "buttonHref": "/contact-us"
     }
