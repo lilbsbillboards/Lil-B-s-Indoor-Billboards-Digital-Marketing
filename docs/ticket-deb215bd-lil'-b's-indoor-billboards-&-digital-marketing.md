@@ -8,7 +8,7 @@
 
 ## People
 - **Client:** Brandon Stafford <lilbsbillboards@gmail.com>
-- **Developer:** Vianka <viankab@n-compass.biz>
+- **Developer:** Viankaa <viankab@n-compass.biz>
 
 ## URLs
 - **Staging:** —
