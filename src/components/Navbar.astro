@@ -31,22 +31,22 @@ const socialLinks = Object.entries(siteConfig.social || {}).filter(([_, url]) =>
   <div class="max-w-[1600px] mx-auto flex items-center justify-between gap-3 px-2 sm:px-4 lg:px-8">
 
     <!-- Logo (white pill container fades in on scroll) -->
-    <a href="/" class="conztru-logo grid place-items-center h-14 px-4 rounded-full">
+    <a href="/" class="conztru-logo grid place-items-center h-16 md:h-[72px] px-3 md:px-4 rounded-full">
       <img
         src={siteConfig.logo.whiteSrc}
         alt={siteConfig.logo.alt}
-        class="conztru-logo-img conztru-logo-light h-10 md:h-12 w-auto object-contain"
-        width="59"
-        height="48"
+        class="conztru-logo-img conztru-logo-light h-12 md:h-16 w-auto object-contain"
+        width="79"
+        height="64"
         decoding="async"
         loading="eager"
       />
       <img
         src={siteConfig.logo.src}
         alt={siteConfig.logo.alt}
-        class="conztru-logo-img conztru-logo-dark h-10 md:h-12 w-auto object-contain"
-        width="59"
-        height="48"
+        class="conztru-logo-img conztru-logo-dark h-12 md:h-16 w-auto object-contain"
+        width="79"
+        height="64"
         decoding="async"
         loading="eager"
         aria-hidden="true"
